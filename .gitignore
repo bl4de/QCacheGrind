@@ -22,3 +22,4 @@ CMakeLists.txt.user*
 .cmake/
 build
 build
+.qmake.stash

@@ -51,8 +51,11 @@ QString SubCost::pretty(char sep) const
     return res;
 }
 
-
-
+QString SubCost::toMiliseconds() const
+{
+    unsigned long long n = v;
+    return QString::number((double)(n * 0.00001));
+}
 
 // HighestCostList
 

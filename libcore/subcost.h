@@ -55,6 +55,12 @@ public:
      */
     QString pretty(char sep = ' ') const;
 
+    /**
+     * Convert XDebug's profiler 10ns default time units 
+     * to miliseconds
+    */
+    QString toMiliseconds() const;
+
     uint64 v;
 };
 

@@ -592,7 +592,7 @@ SubCost ProfileCostArray::subCost(EventType* t)
 
 QString ProfileCostArray::prettySubCost(EventType* t)
 {
-    return subCost(t).pretty();
+    return subCost(t).toMiliseconds();
 }
 
 QString ProfileCostArray::prettySubCostPerCall(EventType* t, uint64 calls)
@@ -605,6 +605,6 @@ QString ProfileCostArray::prettySubCostPerCall(EventType* t, uint64 calls)
          */
         calls = 1;
     }
-    return SubCost(subCost(t) / calls).pretty();
+    return SubCost(subCost(t) / calls).toMiliseconds();
 }
 

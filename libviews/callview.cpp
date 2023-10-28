@@ -253,8 +253,8 @@ void CallView::refresh()
     setColumnHidden(3, (_eventType2 == nullptr));
 
     if (_eventType) {
-        headerItem()->setText(0, _eventType->name());
-        headerItem()->setText(1, tr("%1 per call").arg(_eventType->name()));
+        headerItem()->setText(0, "Time (ms)");
+        headerItem()->setText(1, tr("Time (ms) per call"));
     }
     if (_eventType2) {
         headerItem()->setText(2, _eventType2->name());

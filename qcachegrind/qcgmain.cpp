@@ -42,7 +42,8 @@ int main( int argc, char ** argv )
     t->show();
     if (list.isEmpty()) {
         // load files in current dir
-        t->loadDelayed( QStringLiteral("."), false);
+        // @TODO: add General config setting to set default dir with profile files:
+        t->loadDelayed( QStringLiteral("/usr/local/homebrew/var/www/profiler_data"), false);
     }
     else {
         foreach(const QString& file, list)
