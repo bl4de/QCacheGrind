@@ -1,37 +1,37 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2023 This file is copyright:
+# This file is distributed under the same license as the kcachegrind package.
 #
-# Chetan Khona <chetan@kompkin.com>, 2013.
+# SPDX-FileCopyrightText: 2023 Enol P. <enolp@softastur.org>
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kcachegrind\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-10-29 01:39+0000\n"
-"PO-Revision-Date: 2013-03-06 17:49+0530\n"
-"Last-Translator: Chetan Khona <chetan@kompkin.com>\n"
-"Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
-"Language: mr\n"
+"PO-Revision-Date: 2023-11-07 21:26+0100\n"
+"Last-Translator: Enol P. <enolp@softastur.org>\n"
+"Language-Team: \n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.08.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "चेतन खोना"
+msgstr "Softastur"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "chetan@kompkin.com"
+msgstr "alministradores@softastur.org"
 
 #: kcachegrind/configdlg.cpp:141 kcachegrind/configdlg.cpp:329
 #: kcachegrind/configdlg.cpp:348
 #, kde-format
 msgid "(always)"
-msgstr "(नेहमी)"
+msgstr ""
 
 #: kcachegrind/configdlg.cpp:355
 #, kde-format
@@ -42,13 +42,13 @@ msgstr ""
 #: kcachegrind/configdlgbase.ui:14
 #, kde-format
 msgid "Configuration"
-msgstr "संयोजना"
+msgstr "Configuration"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab1)
 #: kcachegrind/configdlgbase.ui:24
-#, fuzzy, kde-format
+#, kde-format
 msgid "General"
-msgstr "सामान्य"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel5)
 #: kcachegrind/configdlgbase.ui:34
@@ -99,31 +99,31 @@ msgstr ""
 #: kcachegrind/configdlgbase.ui:233
 #, kde-format
 msgid "Automatic"
-msgstr "स्वयंचलित"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel4)
 #: kcachegrind/configdlgbase.ui:192
-#, fuzzy, kde-format
+#, kde-format
 msgid "Object:"
-msgstr "घटक"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel4_2_2)
 #: kcachegrind/configdlgbase.ui:202
 #, kde-format
 msgid "Class:"
-msgstr "वर्ग :"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel4_2)
 #: kcachegrind/configdlgbase.ui:240
-#, fuzzy, kde-format
+#, kde-format
 msgid "File:"
-msgstr "फाईल :"
+msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab2)
 #: kcachegrind/configdlgbase.ui:321
-#, fuzzy, kde-format
+#, kde-format
 msgid "Annotations"
-msgstr "%1 टीपा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel4_3_2)
 #: kcachegrind/configdlgbase.ui:329
@@ -141,13 +141,13 @@ msgstr ""
 #: kcachegrind/configdlgbase.ui:364
 #, kde-format
 msgid "Add"
-msgstr "जोडा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, deleteDirButton)
 #: kcachegrind/configdlgbase.ui:371
-#, fuzzy, kde-format
+#, kde-format
 msgid "Delete"
-msgstr "काढून टाका"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QTreeWidget, dirList)
 #: kcachegrind/configdlgbase.ui:409
@@ -166,25 +166,25 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:24
 #, kde-format
 msgid "Target"
-msgstr "लक्ष्य"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView1)
 #: kcachegrind/dumpselectionbase.ui:46
 #, kde-format
 msgid "Time"
-msgstr "वेळ"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView1)
 #: kcachegrind/dumpselectionbase.ui:57
 #, kde-format
 msgid "Path"
-msgstr "मार्ग"
+msgstr "Camín"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: kcachegrind/dumpselectionbase.ui:70
 #, kde-format
 msgid "Options"
-msgstr "पर्याय"
+msgstr "Opciones"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: kcachegrind/dumpselectionbase.ui:87
@@ -202,14 +202,14 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:111
 #, kde-format
 msgid "Option"
-msgstr "पर्याय"
+msgstr "Opción"
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView3)
 #. i18n: ectx: property (text), widget (Q3ListView, listView4_3)
 #: kcachegrind/dumpselectionbase.ui:122 kcachegrind/dumpselectionbase.ui:650
 #, kde-format
 msgid "Value"
-msgstr "मूल्य"
+msgstr "Valor"
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:133
@@ -228,14 +228,14 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:160
 #, kde-format
 msgid "Instructions"
-msgstr ""
+msgstr "Instrucciones"
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
 #: kcachegrind/dumpselectionbase.ui:175 kcachegrind/dumpselectionbase.ui:745
-#, fuzzy, kde-format
+#, kde-format
 msgid "Events"
-msgstr "घटना/कार्यक्रम"
+msgstr "Eventos"
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:188
@@ -247,7 +247,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:202
 #, kde-format
 msgid "Custom"
-msgstr "ऐच्छिक"
+msgstr ""
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:217
@@ -271,7 +271,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:259
 #, kde-format
 msgid "Skip"
-msgstr "वगळा"
+msgstr ""
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:272
@@ -284,7 +284,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:286 kcachegrind/dumpselectionbase.ui:898
 #, kde-format
 msgid "Function"
-msgstr "कार्य"
+msgstr "Función"
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:301
@@ -326,7 +326,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:398
 #, kde-format
 msgid "Threads"
-msgstr ""
+msgstr "FIlos"
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView3)
 #: kcachegrind/dumpselectionbase.ui:412
@@ -356,7 +356,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:496
 #, kde-format
 msgid "Info"
-msgstr "माहिती"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel8)
 #: kcachegrind/dumpselectionbase.ui:505
@@ -374,7 +374,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:529
 #, kde-format
 msgid "Name"
-msgstr "नाव"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView4)
 #: kcachegrind/dumpselectionbase.ui:540
@@ -384,15 +384,15 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel7)
 #: kcachegrind/dumpselectionbase.ui:554
-#, fuzzy, kde-format
+#, kde-format
 msgid "Miscellaneous:"
-msgstr "किरकोळ"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton6)
 #: kcachegrind/dumpselectionbase.ui:588
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show"
-msgstr "%1 दर्शवा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton5)
 #: kcachegrind/dumpselectionbase.ui:595
@@ -404,13 +404,13 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:605
 #, kde-format
 msgid "State"
-msgstr "स्थिती"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton1)
 #: kcachegrind/dumpselectionbase.ui:619
 #, kde-format
 msgid "Update"
-msgstr "अद्ययावत करा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox1)
 #: kcachegrind/dumpselectionbase.ui:626
@@ -476,7 +476,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:800
 #, kde-format
 msgid "Functions"
-msgstr "कार्ये"
+msgstr ""
 
 #. i18n: ectx: property (text), item, widget (Q3ListView, listView4_3)
 #: kcachegrind/dumpselectionbase.ui:814
@@ -492,9 +492,9 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox2)
 #: kcachegrind/dumpselectionbase.ui:855
-#, fuzzy, kde-format
+#, kde-format
 msgid "Sync."
-msgstr "सुसूत्रीत करा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView7)
 #: kcachegrind/dumpselectionbase.ui:865
@@ -516,21 +516,21 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (Q3ListView, listView7)
 #: kcachegrind/dumpselectionbase.ui:909
-#, fuzzy, kde-format
+#, kde-format
 msgid "Location"
-msgstr "स्थान"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton7)
 #: kcachegrind/dumpselectionbase.ui:928
-#, fuzzy, kde-format
+#, kde-format
 msgid "Start"
-msgstr "सुरु करा"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton6_2)
 #: kcachegrind/dumpselectionbase.ui:951
 #, kde-format
 msgid "Zero"
-msgstr "शून्य"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton4)
 #: kcachegrind/dumpselectionbase.ui:958
@@ -542,7 +542,7 @@ msgstr ""
 #: kcachegrind/dumpselectionbase.ui:968
 #, kde-format
 msgid "Messages"
-msgstr "संदेश"
+msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton9)
 #: kcachegrind/dumpselectionbase.ui:985
@@ -552,27 +552,27 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton8)
 #: kcachegrind/dumpselectionbase.ui:1008
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear"
-msgstr "पुसून टाका"
+msgstr ""
 
 #. i18n: ectx: Menu (file)
 #: kcachegrind/kcachegrindui.rc:4
-#, fuzzy, kde-format
+#, kde-format
 msgid "&File"
-msgstr "फाईल (&F)"
+msgstr ""
 
 #. i18n: ectx: Menu (view)
 #: kcachegrind/kcachegrindui.rc:10
-#, fuzzy, kde-format
+#, kde-format
 msgid "&View"
-msgstr "दृश्य (&V)"
+msgstr ""
 
 #. i18n: ectx: Menu (layouts)
 #: kcachegrind/kcachegrindui.rc:15
 #, kde-format
 msgid "&Layout"
-msgstr "रचना (&L):"
+msgstr ""
 
 #. i18n: ectx: Menu
 #: kcachegrind/kcachegrindui.rc:33
@@ -582,9 +582,9 @@ msgstr ""
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: kcachegrind/kcachegrindui.rc:42
-#, fuzzy, kde-format
+#, kde-format
 msgid "Main Toolbar"
-msgstr "मुख्य साधनपट्टी"
+msgstr ""
 
 #. i18n: ectx: ToolBar (stateToolBar)
 #: kcachegrind/kcachegrindui.rc:54
@@ -603,9 +603,9 @@ msgid "KDE Frontend for Callgrind/Cachegrind"
 msgstr ""
 
 #: kcachegrind/main.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 msgid "(C) 2002 - 2016"
-msgstr "C4"
+msgstr ""
 
 #: kcachegrind/main.cpp:40
 #, kde-format
@@ -677,7 +677,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:363
 #, kde-format
 msgid "&Duplicate"
-msgstr "प्रतिकृती (&D)"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:366
 #, kde-format
@@ -688,7 +688,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:371
 #, kde-format
 msgid "&Remove"
-msgstr "काढून टाका (&R)"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:373
 #, kde-format
@@ -728,9 +728,9 @@ msgid "Restore Layouts to Default"
 msgstr ""
 
 #: kcachegrind/toplevel.cpp:398
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Save as Default"
-msgstr "मूलभूत साठवा"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:400
 #, kde-format
@@ -745,7 +745,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:415
 #, kde-format
 msgid "&Add..."
-msgstr "जोडा (&A)..."
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:417
 #, kde-format
@@ -758,7 +758,7 @@ msgstr ""
 #, kde-format
 msgctxt "Reload a document"
 msgid "&Reload"
-msgstr "पुन्हा दाखल करा (&R)"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:426
 #, kde-format
@@ -816,7 +816,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:490
 #, kde-format
 msgid "Call Stack"
-msgstr "कॉल स्टॅक"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:493
 #, kde-format
@@ -841,7 +841,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:516
 #, kde-format
 msgid "Relative"
-msgstr "संबंधित"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:518
 #, kde-format
@@ -916,7 +916,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:586
 #, kde-format
 msgid "&Up"
-msgstr "वर (&U)"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:595
 #, kde-format
@@ -958,7 +958,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:664
 #, kde-format
 msgid "Grouping"
-msgstr "समूह करणे"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:666
 #, kde-format
@@ -973,7 +973,7 @@ msgstr ""
 #: kcachegrind/toplevel.cpp:684
 #, kde-format
 msgid "Split"
-msgstr "विभाजित"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:687
 #, kde-format
@@ -1013,14 +1013,14 @@ msgid "Add Callgrind Profile Data"
 msgstr ""
 
 #: kcachegrind/toplevel.cpp:1128 kcachegrind/toplevel.cpp:1457
-#, fuzzy, kde-format
+#, kde-format
 msgid "(Hidden)"
-msgstr "लपलेले"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:1514
 #, kde-format
 msgid "Hide"
-msgstr "लपवा"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:1556
 #, kde-format
@@ -1033,19 +1033,19 @@ msgid "Show Relative Cost"
 msgstr ""
 
 #: kcachegrind/toplevel.cpp:1591
-#, fuzzy, kde-format
+#, kde-format
 msgid "Go Back"
-msgstr "मागे जा"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:1592
-#, fuzzy, kde-format
+#, kde-format
 msgid "Go Forward"
-msgstr "10% पुढे जा"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:1593
 #, kde-format
 msgid "Go Up"
-msgstr "वर जा"
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:1805
 #, kde-format
@@ -1099,9 +1099,9 @@ msgid "(No Function Up)"
 msgstr ""
 
 #: kcachegrind/toplevel.cpp:2307 kcachegrind/toplevel.cpp:2321
-#, fuzzy, kde-format
+#, kde-format
 msgid "Loading %1"
-msgstr "दाखल करत आहे..."
+msgstr ""
 
 #: kcachegrind/toplevel.cpp:2315
 #, kde-format

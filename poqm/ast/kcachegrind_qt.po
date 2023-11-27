@@ -1,362 +1,353 @@
-# translation of kcachegrind_qt.po to Estonian
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Marek Laane <bald@smail.ee>, 2009, 2010, 2011, 2012, 2014, 2015, 2019.
+# SPDX-FileCopyrightText: 2023 Enol P. <enolp@softastur.org>
 msgid ""
 msgstr ""
-"Project-Id-Version: kcachegrind_qt\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-18 02:14+0000\n"
-"PO-Revision-Date: 2019-11-16 00:52+0200\n"
-"Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
-"Language-Team: Estonian <kde-et@lists.linux.ee>\n"
-"Language: et\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2023-11-07 21:26+0100\n"
+"Last-Translator: Enol P. <enolp@softastur.org>\n"
+"Language-Team: \n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.08.1\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.08.2\n"
 
 #: libcore/cachegrindloader.cpp:135
 msgctxt "QObject|"
 msgid "Import filter for Cachegrind/Callgrind generated profile data files"
-msgstr "Cachegrindi/Callgrindi loodud profiiliandmete failide importfilter"
+msgstr ""
 
 #: libcore/context.cpp:60
 msgctxt "ProfileContext|"
 msgid "Invalid Context"
-msgstr "Vigane kontekst"
+msgstr ""
 
 #: libcore/context.cpp:61
 msgctxt "ProfileContext|"
 msgid "Unknown Context"
-msgstr "Tundmatu kontekst"
+msgstr ""
 
 #: libcore/context.cpp:62
 msgctxt "ProfileContext|"
 msgid "Part Source Line"
-msgstr "Osa lähterida"
+msgstr ""
 
 #: libcore/context.cpp:63
 msgctxt "ProfileContext|"
 msgid "Source Line"
-msgstr "Lähterida"
+msgstr ""
 
 #: libcore/context.cpp:64
 msgctxt "ProfileContext|"
 msgid "Part Line Call"
-msgstr "Osa rea väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:65
 msgctxt "ProfileContext|"
 msgid "Line Call"
-msgstr "Rea väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:66
 msgctxt "ProfileContext|"
 msgid "Part Jump"
-msgstr "Osa hüpe"
+msgstr ""
 
 #: libcore/context.cpp:67
 msgctxt "ProfileContext|"
 msgid "Jump"
-msgstr "Hüpe"
+msgstr ""
 
 #: libcore/context.cpp:68
 msgctxt "ProfileContext|"
 msgid "Part Instruction"
-msgstr "Osa instruktsioon"
+msgstr ""
 
 #: libcore/context.cpp:69
 msgctxt "ProfileContext|"
 msgid "Instruction"
-msgstr "Instruktsioon"
+msgstr ""
 
 #: libcore/context.cpp:70
 msgctxt "ProfileContext|"
 msgid "Part Instruction Jump"
-msgstr "Osa instruktsiooni hüpe"
+msgstr ""
 
 #: libcore/context.cpp:71
 msgctxt "ProfileContext|"
 msgid "Instruction Jump"
-msgstr "Instruktsiooni hüpe"
+msgstr ""
 
 #: libcore/context.cpp:72
 msgctxt "ProfileContext|"
 msgid "Part Instruction Call"
-msgstr "Osa instruktsiooni väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:73
 msgctxt "ProfileContext|"
 msgid "Instruction Call"
-msgstr "Instruktsiooni väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:74
 msgctxt "ProfileContext|"
 msgid "Part Call"
-msgstr "Osa väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:75
 msgctxt "ProfileContext|"
 msgid "Call"
-msgstr "Väljakutse"
+msgstr ""
 
 #: libcore/context.cpp:76
 msgctxt "ProfileContext|"
 msgid "Part Function"
-msgstr "Osa funktsioon"
+msgstr ""
 
 #: libcore/context.cpp:77
 msgctxt "ProfileContext|"
 msgid "Function Source File"
-msgstr "Funktsiooni lähtefail"
+msgstr ""
 
 #: libcore/context.cpp:78
 msgctxt "ProfileContext|"
 msgid "Function"
-msgstr "Funktsioon"
+msgstr ""
 
 #: libcore/context.cpp:79
 msgctxt "ProfileContext|"
 msgid "Function Cycle"
-msgstr "Funktsiooni tsükkel"
+msgstr ""
 
 #: libcore/context.cpp:80
 msgctxt "ProfileContext|"
 msgid "Part Class"
-msgstr "Osa klass"
+msgstr ""
 
 #: libcore/context.cpp:81
 msgctxt "ProfileContext|"
 msgid "Class"
-msgstr "Klass"
+msgstr ""
 
 #: libcore/context.cpp:82
 msgctxt "ProfileContext|"
 msgid "Part Source File"
-msgstr "Osa lähtefail"
+msgstr ""
 
 #: libcore/context.cpp:83
 msgctxt "ProfileContext|"
 msgid "Source File"
-msgstr "Lähtefail"
+msgstr ""
 
 #: libcore/context.cpp:84
 msgctxt "ProfileContext|"
 msgid "Part ELF Object"
-msgstr "Osa ELF-objekt"
+msgstr ""
 
 #: libcore/context.cpp:85
 msgctxt "ProfileContext|"
 msgid "ELF Object"
-msgstr "ELF-objekt"
+msgstr ""
 
 #: libcore/context.cpp:86
 msgctxt "ProfileContext|"
 msgid "Profile Part"
-msgstr "Profiili osa"
+msgstr ""
 
 #: libcore/context.cpp:87
 msgctxt "ProfileContext|"
 msgid "Program Trace"
-msgstr "Programmi jälitus"
+msgstr ""
 
 #: libcore/costitem.cpp:48
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 from %2"
-msgstr "%1 %2-st"
+msgstr ""
 
 #: libcore/costitem.cpp:54 libcore/costitem.cpp:59 libcore/tracedata.cpp:1978
 #: libcore/tracedata.cpp:2040 libcore/tracedata.cpp:2860
 #: libcore/tracedata.cpp:2961 libviews/partgraph.cpp:408
 msgctxt "QObject|"
 msgid "(unknown)"
-msgstr "(tundmatu)"
+msgstr ""
 
 #: libcore/globalconfig.cpp:77
 msgctxt "QObject|"
 msgid "Instruction Fetch"
-msgstr "Instruktsioon"
+msgstr ""
 
 #: libcore/globalconfig.cpp:78
 msgctxt "QObject|"
 msgid "Data Read Access"
-msgstr "Andmete lugemisõigus"
+msgstr ""
 
 #: libcore/globalconfig.cpp:79
 msgctxt "QObject|"
 msgid "Data Write Access"
-msgstr "Andmete kirjutamisõigus"
+msgstr ""
 
 #: libcore/globalconfig.cpp:80
 msgctxt "QObject|"
 msgid "L1 Instr. Fetch Miss"
-msgstr "L1 instr. vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:81
 msgctxt "QObject|"
 msgid "L1 Data Read Miss"
-msgstr "L1 andmete lugemise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:82
 msgctxt "QObject|"
 msgid "L1 Data Write Miss"
-msgstr "L1 andmete kirjutamise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:83
 msgctxt "QObject|"
 msgid "L2 Instr. Fetch Miss"
-msgstr "L2 instr. vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:84
 msgctxt "QObject|"
 msgid "L2 Data Read Miss"
-msgstr "L2 andmete lugemise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:85
 msgctxt "QObject|"
 msgid "L2 Data Write Miss"
-msgstr "L2 andmete kirjutamise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:86
 msgctxt "QObject|"
 msgid "LL Instr. Fetch Miss"
-msgstr "LL instr. vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:87
 msgctxt "QObject|"
 msgid "LL Data Read Miss"
-msgstr "LL andmete lugemise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:88
 msgctxt "QObject|"
 msgid "LL Data Write Miss"
-msgstr "LL andmete kirjutamise vajak"
+msgstr ""
 
 #: libcore/globalconfig.cpp:89
 msgctxt "QObject|"
 msgid "L1 Miss Sum"
-msgstr "L1 vajakute summa"
+msgstr ""
 
 #: libcore/globalconfig.cpp:90
 msgctxt "QObject|"
 msgid "L2 Miss Sum"
-msgstr "L2 vajakute summa"
+msgstr ""
 
 #: libcore/globalconfig.cpp:91
 msgctxt "QObject|"
 msgid "Last-level Miss Sum"
-msgstr "LL vajakute summa"
+msgstr ""
 
 #: libcore/globalconfig.cpp:92
 msgctxt "QObject|"
 msgid "Indirect Branch"
-msgstr "Kaudharu"
+msgstr ""
 
 #: libcore/globalconfig.cpp:93
 msgctxt "QObject|"
 msgid "Mispredicted Ind. Branch"
-msgstr "Valesti ennustatud kaudharu"
+msgstr ""
 
 #: libcore/globalconfig.cpp:94
 msgctxt "QObject|"
 msgid "Conditional Branch"
-msgstr "Tingimusharu"
+msgstr ""
 
 #: libcore/globalconfig.cpp:95
 msgctxt "QObject|"
 msgid "Mispredicted Cond. Branch"
-msgstr "Valesti ennustatud tingimusharu"
+msgstr ""
 
 #: libcore/globalconfig.cpp:96
 msgctxt "QObject|"
 msgid "Mispredicted Branch"
-msgstr "Valesti ennustatud haru"
+msgstr ""
 
 #: libcore/globalconfig.cpp:97
 msgctxt "QObject|"
 msgid "Global Bus Event"
-msgstr "Globaalne siinisündmus"
+msgstr ""
 
 #: libcore/globalconfig.cpp:98
 msgctxt "QObject|"
 msgid "Samples"
-msgstr "Valimid"
+msgstr ""
 
 #: libcore/globalconfig.cpp:99
 msgctxt "QObject|"
 msgid "System Time"
-msgstr "Süsteemi aeg"
+msgstr ""
 
 #: libcore/globalconfig.cpp:100
 msgctxt "QObject|"
 msgid "User Time"
-msgstr "Kasutaja aeg"
+msgstr ""
 
 #: libcore/globalconfig.cpp:101
 msgctxt "QObject|"
 msgid "Cycle Estimation"
-msgstr "Tsükli hinnang"
+msgstr ""
 
 #: libcore/tracedata.cpp:1240
 msgctxt "QObject|"
 msgid "(no caller)"
-msgstr "(väljakutsuja puudub)"
+msgstr ""
 
 #: libcore/tracedata.cpp:1247 libcore/tracedata.cpp:1266
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 via %2"
-msgstr "%1 %2 kaudu"
+msgstr ""
 
 #: libcore/tracedata.cpp:1256
 msgctxt "QObject|"
 msgid "(no callee)"
-msgstr "(väljakutsutu puudub)"
+msgstr ""
 
 #: libcore/tracedata.cpp:2709
 msgctxt "QObject|"
 msgid "(global)"
-msgstr "(globaalne)"
+msgstr ""
 
 #: libcore/tracedata.cpp:3144
 msgctxt "QObject|"
 msgid "(not found)"
-msgstr "(ei leitud)"
+msgstr ""
 
 #: libcore/tracedata.cpp:3692
 msgctxt "TraceData|"
 msgid "Recalculating Function Cycles..."
-msgstr "Funktsiooni tsüklite ülearvutus..."
+msgstr ""
 
 #: libviews/callgraphview.cpp:414
 #, qt-format
 msgctxt "QObject|"
 msgid "Call(s) from %1"
-msgstr "Väljakutsed %1-lt"
+msgstr ""
 
 #: libviews/callgraphview.cpp:417
 #, qt-format
 msgctxt "QObject|"
 msgid "Call(s) to %1"
-msgstr "Väljakutsed %1-le"
+msgstr ""
 
 #: libviews/callgraphview.cpp:419
 msgctxt "QObject|"
 msgid "(unknown call)"
-msgstr "(tundmatu väljakutse)"
+msgstr ""
 
 #: libviews/callgraphview.cpp:908
-#, fuzzy
-#| msgctxt "CallGraphView|"
-#| msgid "Export Graph"
 msgctxt "QObject|"
 msgid "Export Graph"
-msgstr "Graafiku eksport"
+msgstr ""
 
 #: libviews/callgraphview.cpp:1608
 msgctxt "CallGraphView|"
@@ -373,18 +364,6 @@ msgid ""
 "There are similar visualization options to the Call Treemap; the selected "
 "function is highlighted.</p>"
 msgstr ""
-"<b>Väljakutsegraafik aktiivse funktsiooni piirkonnas</b><p>Sõltuvalt "
-"seadistusest näitab see graafiliselt aktiivse funktsiooni väljakutse "
-"keskkonda. Märkus: näidatakse <b>ainult</b> kulu aktiivse funktsiooni "
-"tegelikul töötamisel, see tähendab, et kulu, mida näidatakse main() puhul "
-"(kui see ikka on näha), on võrdne aktiivse funktsiooni kuluga, sest see on "
-"osa main()-s sisalduvast kulust aktiivse funktsiooni töötamisel.</"
-"p><p>Tsüklite korral näitavad sinised väljakutsenooled, et tegemist on "
-"kunstliku väljakutsega, mida tegelikult ei olegi olemas, kuid mis on lisatud "
-"graafiku korrektseks esitamiseks.</p><p>Kui graafik on suurem kui elemendile "
-"eraldatud ala, on ühes servas näha miniülevaade. Samamoodi on visuaalset "
-"külge esitatud väljakutsete puus, kus valitud funktsioon on esile tõstetud.</"
-"p>"
 
 #: libviews/callgraphview.cpp:2020
 msgctxt "CallGraphView|"
@@ -392,24 +371,22 @@ msgid ""
 "Warning: a long lasting graph layouting is in progress.\n"
 "Reduce node/edge limits for speedup.\n"
 msgstr ""
-"Hoiatus: käib tublisti aega võtva graafilise kujutise loomine.\n"
-"Kiirendamiseks kahanda sõlmede/servade limiiti.\n"
 
 #: libviews/callgraphview.cpp:2023
 msgctxt "CallGraphView|"
 msgid "Layouting stopped.\n"
-msgstr "Graafiline kujutamine on peatatud.\n"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2025
 #, qt-format
 msgctxt "CallGraphView|"
 msgid "The call graph has %1 nodes and %2 edges.\n"
-msgstr "Graafikul on %1 sõlme ja %2 serva.\n"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2034
 msgctxt "CallGraphView|"
 msgid "No graph available because the layouting process failed.\n"
-msgstr "Graafikut pole, sest kujutamine nurjus.\n"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2036
 #, qt-format
@@ -418,30 +395,26 @@ msgid ""
 "Trying to run the following command did not work:\n"
 "'%1'\n"
 msgstr ""
-"Järgmise käsu käivitamine ei andnud tulemusi:\n"
-"'%1'\n"
 
 #: libviews/callgraphview.cpp:2038 libviews/callgraphview.cpp:2555
 msgctxt "CallGraphView|"
 msgid "Please check that 'dot' is installed (package GraphViz)."
 msgstr ""
-"Palun kontrolli, kas programm \"dot\" on paigaldatud (pakett GraphViz)."
 
 #: libviews/callgraphview.cpp:2080
 msgctxt "CallGraphView|"
 msgid "No item activated for which to draw the call graph."
 msgstr ""
-"Pole aktiveeritud ühtegi elementi, mille väljakutsete graafikut kujutada."
 
 #: libviews/callgraphview.cpp:2092
 msgctxt "CallGraphView|"
 msgid "No call graph can be drawn for the active item."
-msgstr "Aktiivse elemendi puhul ei saa väljakutsete graafikut kujutada."
+msgstr ""
 
 #: libviews/callgraphview.cpp:2554
 msgctxt "CallGraphView|"
 msgid "Error running the graph layouting tool.\n"
-msgstr "Tekkis tõrge graafiku kujutamise tööriista töös.\n"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2559
 #, qt-format
@@ -451,276 +424,273 @@ msgid ""
 "\t'%1'\n"
 "because it has no cost of the selected event type."
 msgstr ""
-"Funktsiooni '%1'\n"
-"väljakutsete graafikut ei saa kujutada,\n"
-"sest valitud sündmusetüübi kulu puudub."
 
 #: libviews/callgraphview.cpp:2800
 msgctxt "CallGraphView|"
 msgid "Caller Depth"
-msgstr "Väljakutsuja sügavus"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2801 libviews/callgraphview.cpp:2841
 msgctxt "CallGraphView|"
 msgid "Unlimited"
-msgstr "Piiramatu"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2804 libviews/callgraphview.cpp:2844
 msgctxt "CallGraphView|None"
 msgid "Depth 0"
-msgstr "Sügavus 0"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2805 libviews/callgraphview.cpp:2845
 msgctxt "CallGraphView|"
 msgid "max. 1"
-msgstr "maks. 10"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2806 libviews/callgraphview.cpp:2846
 msgctxt "CallGraphView|"
 msgid "max. 2"
-msgstr "maks. 2"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2807 libviews/callgraphview.cpp:2847
 msgctxt "CallGraphView|"
 msgid "max. 5"
-msgstr "maks. 5"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2808 libviews/callgraphview.cpp:2848
 msgctxt "CallGraphView|"
 msgid "max. 10"
-msgstr "maks. 10"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2809 libviews/callgraphview.cpp:2849
 msgctxt "CallGraphView|"
 msgid "max. 15"
-msgstr "maks. 15"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2840
 msgctxt "CallGraphView|"
 msgid "Callee Depth"
-msgstr "Väljakutsutu sügavus"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2880
 msgctxt "CallGraphView|"
 msgid "Min. Node Cost"
-msgstr "Sõlme min. kulu"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2881
 msgctxt "CallGraphView|"
 msgid "No Minimum"
-msgstr "Miinimumi pole"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2887
 msgctxt "CallGraphView|"
 msgid "50 %"
-msgstr "50 %"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2888
 msgctxt "CallGraphView|"
 msgid "20 %"
-msgstr "20%"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2889
 msgctxt "CallGraphView|"
 msgid "10 %"
-msgstr "10%"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2890
 msgctxt "CallGraphView|"
 msgid "5 %"
-msgstr "5%"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2891
 msgctxt "CallGraphView|"
 msgid "2 %"
-msgstr "2%"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2892
 msgctxt "CallGraphView|"
 msgid "1 %"
-msgstr "1%"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2922
 msgctxt "CallGraphView|"
 msgid "Min. Call Cost"
-msgstr "Väljakutse min. kulu"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2923
 msgctxt "CallGraphView|"
 msgid "Same as Node"
-msgstr "Sama sõlmega"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2925
 msgctxt "CallGraphView|"
 msgid "50 % of Node"
-msgstr "50 % sõlmest"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2927
 msgctxt "CallGraphView|"
 msgid "20 % of Node"
-msgstr "20 % sõlmest"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2929
 msgctxt "CallGraphView|"
 msgid "10 % of Node"
-msgstr "10 % sõlmest"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2958
 msgctxt "CallGraphView|"
 msgid "Birds-eye View"
-msgstr "Linnulennuvaade"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2959
 msgctxt "CallGraphView|"
 msgid "Top Left"
-msgstr "Ülal vasakul"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2960
 msgctxt "CallGraphView|"
 msgid "Top Right"
-msgstr "Ülal paremal"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2961
 msgctxt "CallGraphView|"
 msgid "Bottom Left"
-msgstr "All vasakul"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2962
 msgctxt "CallGraphView|"
 msgid "Bottom Right"
-msgstr "All paremal"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2963
 msgctxt "CallGraphView|"
 msgid "Automatic"
-msgstr "Automaatne"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2964
 msgctxt "CallGraphView|"
 msgid "Hide"
-msgstr "Peida"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2994
 msgctxt "CallGraphView|"
 msgid "Layout"
-msgstr "Paigutus"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2995
 msgctxt "CallGraphView|"
 msgid "Top to Down"
-msgstr "Ülalt alla"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2996
 msgctxt "CallGraphView|"
 msgid "Left to Right"
-msgstr "Vasakult paremale"
+msgstr ""
 
 #: libviews/callgraphview.cpp:2997
 msgctxt "CallGraphView|"
 msgid "Circular"
-msgstr "Ring"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3037 libviews/callgraphview.cpp:3042
 #: libviews/callgraphview.cpp:3062
 #, qt-format
 msgctxt "CallGraphView|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3073
 msgctxt "CallGraphView|"
 msgid "Stop Layouting"
-msgstr "Peata graafiline kujutamine"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3080
 msgctxt "CallGraphView|"
 msgid "Export Graph"
-msgstr "Graafiku eksport"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3081
 msgctxt "CallGraphView|"
 msgid "As DOT file..."
-msgstr "DOT-failina..."
+msgstr ""
 
 #: libviews/callgraphview.cpp:3082
 msgctxt "CallGraphView|"
 msgid "As Image..."
-msgstr "Pildina..."
+msgstr ""
 
 #: libviews/callgraphview.cpp:3085
 msgctxt "CallGraphView|"
 msgid "Graph"
-msgstr "Graafik"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3093
 msgctxt "CallGraphView|"
 msgid "Arrows for Skipped Calls"
-msgstr "Nooled vahelejäetud väljakutsetele"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3098
 msgctxt "CallGraphView|"
 msgid "Inner-cycle Calls"
-msgstr "Tsüklisisesed väljakutsed"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3103
 msgctxt "CallGraphView|"
 msgid "Cluster Groups"
-msgstr "Klastrigrupid"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3107
 msgctxt "CallGraphView|"
 msgid "Visualization"
-msgstr "Kuvamine"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3108
 msgctxt "CallGraphView|"
 msgid "Compact"
-msgstr "Kompaktne"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3111
 msgctxt "CallGraphView|"
 msgid "Normal"
-msgstr "Normaalne"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3114
 msgctxt "CallGraphView|"
 msgid "Tall"
-msgstr "Pikk"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3146
 msgctxt "CallGraphView|"
 msgid "Export Graph As Image"
-msgstr "Graafiku eksport pildina"
+msgstr ""
 
 #: libviews/callgraphview.cpp:3148
 msgctxt "CallGraphView|"
 msgid "Images (*.png *.jpg)"
-msgstr "Pildid (*.png *.jpg)"
+msgstr ""
 
 #: libviews/callitem.cpp:73 libviews/partlistitem.cpp:131
 msgctxt "QObject|"
 msgid "(active)"
-msgstr "(aktiivne)"
+msgstr ""
 
 #: libviews/callmapview.cpp:52
 msgctxt "CallMapView|Name"
 msgid "A thing's name"
-msgstr "Asja nimi"
+msgstr ""
 
 #: libviews/callmapview.cpp:53
 msgctxt "CallMapView|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/callmapview.cpp:54
 msgctxt "CallMapView|"
 msgid "Location"
-msgstr "Asukoht"
+msgstr ""
 
 #: libviews/callmapview.cpp:56
 msgctxt "CallMapView|"
 msgid "Calls"
-msgstr "Väljakutsed"
+msgstr ""
 
 #: libviews/callmapview.cpp:91
 msgctxt "CallMapView|"
@@ -730,11 +700,6 @@ msgid ""
 "function; its size tries to be proportional to the cost spent therein while "
 "the active function is running (however, there are drawing constraints).</p>"
 msgstr ""
-"<b>Väljakutsujate kaart</b><p>See graafik näitab pesastatult aktiivse "
-"funktsiooni kõigi väljakutsujate hierarhiat. Iga värviline ristkülik esindab "
-"funktsiooni, mille suurus peaks olema proportsionaalne selle kuluga aktiivse "
-"funktsiooni töötamisel (täpsusele seavad küll oma tõkked "
-"joonistamispiirangud).</p>"
 
 #: libviews/callmapview.cpp:98
 msgctxt "CallMapView|"
@@ -744,27 +709,8 @@ msgid ""
 "function; its size tries to be proportional to the cost spent therein while "
 "the active function is running (however, there are drawing constraints).</p>"
 msgstr ""
-"<b>Väljakutsekaart</b><p>See graafik näitab pesastatult aktiivse funktsiooni "
-"kõigi väljakutsutute hierarhiat. Iga värviline ristkülik esindab "
-"funktsiooni, mille suurus peaks olema proportsionaalne selle kuluga aktiivse "
-"funktsiooni töötamisel (täpsusele seavad küll oma tõkked "
-"joonistamispiirangud).</p>"
 
 #: libviews/callmapview.cpp:106
-#, fuzzy
-#| msgctxt "CallMapView|"
-#| msgid ""
-#| "<p>Appearance options can be found in the in the context menu. To get "
-#| "exact size proportions, choose 'Hide incorrect borders'. As this mode can "
-#| "be <em>very</em> time consuming, you may want to limit the maximum drawn "
-#| "nesting level before. 'Best' determinates the split direction for "
-#| "children from the aspect ratio of the parent. 'Always Best' decides on "
-#| "remaining space for each sibling. 'Ignore Proportions' takes space for "
-#| "function name drawing <em>before</em> drawing children. Note that size "
-#| "proportions can get <em>heavily</em> wrong.</p><p>This is a <em>TreeMap</"
-#| "em> widget. Keyboard navigation is available with the left/right arrow "
-#| "keys for traversing siblings, and up/down arrow keys to go a nesting "
-#| "level up/down. <em>Return</em> activates the current item.</p>"
 msgctxt "CallMapView|"
 msgid ""
 "<p>Appearance options can be found in the context menu. To get exact size "
@@ -779,249 +725,238 @@ msgid ""
 "siblings, and up/down arrow keys to go a nesting level up/down. <em>Return</"
 "em> activates the current item.</p>"
 msgstr ""
-"<p>Välimuse valikud leiab kontekstimenüüst. Täpse suuruse määramiseks vali "
-"'Jäta vigased piirde vahele'. See režiim võib olla <em>väga</em> aeganõudev, "
-"mistõttu võid soovida eelnevalt piirata maksimaalset pesastamistaset. "
-"'Parim' määrab järglaste jagamise suuna eellaste proportsiooni põhjal. "
-"'Alati parim' määrab järelejäänud ruumi igale järglasele. 'Ignoreeri "
-"proportsioone' võtab ruumi funktsiooni nimele <em>enne</em> järglaste "
-"paikapanemist. Pane tähele, et suuruse proportsioonid võivad olla <em>väga</"
-"em> valed.</p><p>See on <em>puukaardi (TreeMap)</em> element. Järglaste "
-"vahel võimaldavad liikuda nool vasakule ja nool paremale, nool üles ja nool "
-"alla lubavad liikuda pesastamistasemete vahel. <em>Enter</em> aktiveerib "
-"parajasti valitud elemendi.</p>"
 
 #: libviews/callmapview.cpp:139
 msgctxt "CallMapView|"
 msgid "Go To"
-msgstr "Liigu"
+msgstr ""
 
 #: libviews/callmapview.cpp:170
 msgctxt "CallMapView|"
 msgid "Stop at Depth"
-msgstr "Peata sügavusel"
+msgstr ""
 
 #: libviews/callmapview.cpp:171
 msgctxt "CallMapView|"
 msgid "No Depth Limit"
-msgstr "Sügavus ei ole piiratud"
+msgstr ""
 
 #: libviews/callmapview.cpp:173
 msgctxt "CallMapView|"
 msgid "Depth 10"
-msgstr "Sügavus 10"
+msgstr ""
 
 #: libviews/callmapview.cpp:174
 msgctxt "CallMapView|"
 msgid "Depth 15"
-msgstr "Sügavus 15"
+msgstr ""
 
 #: libviews/callmapview.cpp:175
 msgctxt "CallMapView|"
 msgid "Depth 20"
-msgstr "Sügavus 20"
+msgstr ""
 
 #: libviews/callmapview.cpp:178
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Depth of '%1' (%2)"
-msgstr "'%1' sügavus (%2)"
+msgstr ""
 
 #: libviews/callmapview.cpp:185
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Decrement Depth (to %1)"
-msgstr "Kahanemise sügavus (kuni %1)"
+msgstr ""
 
 #: libviews/callmapview.cpp:187
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Increment Depth (to %1)"
-msgstr "Kasvamise sügavus (kuni %1)"
+msgstr ""
 
 #: libviews/callmapview.cpp:213
 msgctxt "CallMapView|"
 msgid "Stop at Function"
-msgstr "Peata funktsioonis"
+msgstr ""
 
 #: libviews/callmapview.cpp:214
 msgctxt "CallMapView|"
 msgid "No Function Limit"
-msgstr "Funktsioonipiiranguta"
+msgstr ""
 
 #: libviews/callmapview.cpp:257
 msgctxt "CallMapView|"
 msgid "Stop at Area"
-msgstr "Peata alal"
+msgstr ""
 
 #: libviews/callmapview.cpp:258
 msgctxt "CallMapView|"
 msgid "No Area Limit"
-msgstr "Ala ei ole piiratud"
+msgstr ""
 
 #: libviews/callmapview.cpp:260
 msgctxt "CallMapView|"
 msgid "100 Pixels"
-msgstr "100 pikslit"
+msgstr ""
 
 #: libviews/callmapview.cpp:261
 msgctxt "CallMapView|"
 msgid "200 Pixels"
-msgstr "200 pikslit"
+msgstr ""
 
 #: libviews/callmapview.cpp:262
 msgctxt "CallMapView|"
 msgid "500 Pixels"
-msgstr "500 pikslit"
+msgstr ""
 
 #: libviews/callmapview.cpp:263
 msgctxt "CallMapView|"
 msgid "1000 Pixels"
-msgstr "1000 pikslit"
+msgstr ""
 
 #: libviews/callmapview.cpp:269
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Area of '%1' (%2)"
-msgstr "'%1' ala (%2)"
+msgstr ""
 
 #: libviews/callmapview.cpp:275
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Double Area Limit (to %1)"
-msgstr "Topeltalapiirang (kuni %1)"
+msgstr ""
 
 #: libviews/callmapview.cpp:277
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Half Area Limit (to %1)"
-msgstr "Poolalapiirang (kuni %1)"
+msgstr ""
 
 #: libviews/callmapview.cpp:327
 msgctxt "CallMapView|"
 msgid "Visualization"
-msgstr "Kuvamine"
+msgstr ""
 
 #: libviews/callmapview.cpp:328
 msgctxt "CallMapView|"
 msgid "Split Direction"
-msgstr "Poolitamise suund"
+msgstr ""
 
 #: libviews/callmapview.cpp:331
 msgctxt "CallMapView|"
 msgid "Skip Incorrect Borders"
-msgstr "Jäta vigased piirded vahele"
+msgstr ""
 
 #: libviews/callmapview.cpp:336
 msgctxt "CallMapView|"
 msgid "Border Width"
-msgstr "Piirde laius"
+msgstr ""
 
 #: libviews/callmapview.cpp:337
 msgctxt "CallMapView|"
 msgid "Border 0"
-msgstr "Piire 0"
+msgstr ""
 
 #: libviews/callmapview.cpp:339
 msgctxt "CallMapView|"
 msgid "Border 1"
-msgstr "Piire 1"
+msgstr ""
 
 #: libviews/callmapview.cpp:340
 msgctxt "CallMapView|"
 msgid "Border 2"
-msgstr "Piire 2"
+msgstr ""
 
 #: libviews/callmapview.cpp:341
 msgctxt "CallMapView|"
 msgid "Border 3"
-msgstr "Piire 3"
+msgstr ""
 
 #: libviews/callmapview.cpp:346
 msgctxt "CallMapView|"
 msgid "Draw Symbol Names"
-msgstr "Näita sümbolnimesid"
+msgstr ""
 
 #: libviews/callmapview.cpp:348
 msgctxt "CallMapView|"
 msgid "Draw Cost"
-msgstr "Näita kulu"
+msgstr ""
 
 #: libviews/callmapview.cpp:350
 msgctxt "CallMapView|"
 msgid "Draw Location"
-msgstr "Näita asukohta"
+msgstr ""
 
 #: libviews/callmapview.cpp:352
 msgctxt "CallMapView|"
 msgid "Draw Calls"
-msgstr "Näita väljakutseid"
+msgstr ""
 
 #: libviews/callmapview.cpp:356
 msgctxt "CallMapView|"
 msgid "Ignore Proportions"
-msgstr "Ignoreeri proportsioone"
+msgstr ""
 
 #: libviews/callmapview.cpp:358
 msgctxt "CallMapView|"
 msgid "Allow Rotation"
-msgstr "Luba pööramine"
+msgstr ""
 
 #: libviews/callmapview.cpp:376
 msgctxt "CallMapView|"
 msgid "Shading"
-msgstr "Varjamine"
+msgstr ""
 
 #: libviews/callmapview.cpp:428
 #, qt-format
 msgctxt "CallMapView|"
 msgid "Call Map: Current is '%1'"
-msgstr "Väljakutsekaart: praegu '%1'"
+msgstr ""
 
 #: libviews/callmapview.cpp:621
 msgctxt "QObject|"
 msgid "(no function)"
-msgstr "(funktsiooni pole)"
+msgstr ""
 
 #: libviews/callmapview.cpp:761 libviews/callmapview.cpp:880
 msgctxt "QObject|"
 msgid "(no call)"
-msgstr "(väljakutset pole)"
+msgstr ""
 
 #: libviews/callview.cpp:37
 msgctxt "CallView|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/callview.cpp:38
 msgctxt "CallView|"
 msgid "Cost per call"
-msgstr "Kulu väljakutse kohta"
+msgstr ""
 
 #: libviews/callview.cpp:39
 msgctxt "CallView|"
 msgid "Cost 2"
-msgstr "Kulu 2"
+msgstr ""
 
 #: libviews/callview.cpp:40
 msgctxt "CallView|"
 msgid "Cost 2 per call"
-msgstr "Kulu 2 väljakutse kohta"
+msgstr ""
 
 #: libviews/callview.cpp:41
 msgctxt "CallView|"
 msgid "Count"
-msgstr "Arvestus"
+msgstr ""
 
 #: libviews/callview.cpp:42
 msgctxt "CallView|"
 msgid "Caller"
-msgstr "Väljakutsuja"
+msgstr ""
 
 #: libviews/callview.cpp:42
 msgctxt "CallView|"
 msgid "Callee"
-msgstr "Väljakutsutu"
+msgstr ""
 
 #: libviews/callview.cpp:76
 msgctxt "CallView|"
@@ -1035,14 +970,6 @@ msgid ""
 "information panel. If there are two panels (Split mode), the function of the "
 "other panel is changed instead.</p>"
 msgstr ""
-"<b>Otseväljakutsujate nimekiri</b><p>See nimekiri näitab kõiki funktsioone, "
-"mis kutsuvad valitud aktiivset funktsiooni otse välja koos väljakutsete arvu "
-"ja valitud aktiivse funktsiooni (kumulatiivse) kuluga, kui seda kutsub välja "
-"nimekirjas olev funktsioon.</p><p>Ikoon kumulatiivse kulu asemel tähendab, "
-"et tegemist on väljakutsega rekursiivses tsüklis. Sellisel juhul ei ole "
-"kumulatiivsel kulul ka mingit mõtet.</p><p>Funktsiooni valimine muudab selle "
-"infopaneelil valitud aktiivseks funktsiooniks. Kui on kaks paneeli "
-"(poolitamisel), muudetakse aga teise paneeli funktsiooni.</p>"
 
 #: libviews/callview.cpp:89
 msgctxt "CallView|"
@@ -1054,75 +981,69 @@ msgid ""
 "information panel. If there are two panels (Split mode), the function of the "
 "other panel is changed instead.</p>"
 msgstr ""
-"<b>Otseväljakutsutute nimekiri</b><p>See nimekiri näitab kõiki funktsioone, "
-"mida valitud aktiivne funktsioon otse välja kutsub koos koos väljakutsete "
-"arvu ja selle funktsiooni (kumulatiivse) kuluga, kui seda kutsub välja "
-"valitud funktsioon.</p><p>Funktsiooni valimine muudab selle infopaneelil "
-"valitud aktiivseks funktsiooniks. Kui on kaks paneeli (poolitamisel), "
-"muudetakse aga teise paneeli funktsiooni.</p>"
 
 #: libviews/callview.cpp:118 libviews/callview.cpp:123
 #, qt-format
 msgctxt "CallView|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/callview.cpp:257 libviews/callview.cpp:261
 #, qt-format
 msgctxt "CallView|"
 msgid "%1 per call"
-msgstr "%1 väljakutse kohta"
+msgstr ""
 
 #: libviews/costlistitem.cpp:53
 #, qt-format
 msgctxt "QObject|"
 msgid "(%n item(s) skipped)"
 msgid_plural "(%n item(s) skipped)"
-msgstr[0] "(%n element(i) jäeti vahele)"
-msgstr[1] "(%n element(i) jäeti vahele)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: libviews/coverageitem.cpp:58 libviews/coverageitem.cpp:195
 #, qt-format
 msgctxt "QObject|"
 msgid "(%n function(s) skipped)"
 msgid_plural "(%n function(s) skipped)"
-msgstr[0] "(%n funktsioon(i) jäeti vahele)"
-msgstr[1] "(%n funktsioon(i) jäeti vahele)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: libviews/coverageview.cpp:37
 msgctxt "CoverageView|"
 msgid "Incl."
-msgstr "Kumul."
+msgstr ""
 
 #: libviews/coverageview.cpp:40 libviews/coverageview.cpp:47
 msgctxt "CoverageView|"
 msgid "Distance"
-msgstr "Vahemaa"
+msgstr ""
 
 #: libviews/coverageview.cpp:41
 msgctxt "CoverageView|"
 msgid "Called"
-msgstr "Välja kutsutud"
+msgstr ""
 
 #: libviews/coverageview.cpp:42
 msgctxt "CoverageView|"
 msgid "Caller"
-msgstr "Väljakutsuja"
+msgstr ""
 
 #: libviews/coverageview.cpp:46
 msgctxt "CoverageView|"
 msgid "Self"
-msgstr "Oma"
+msgstr ""
 
 #: libviews/coverageview.cpp:48
 msgctxt "CoverageView|"
 msgid "Calling"
-msgstr "Kutsub välja"
+msgstr ""
 
 #: libviews/coverageview.cpp:49
 msgctxt "CoverageView|"
 msgid "Callee"
-msgstr "Väljakutsutu"
+msgstr ""
 
 #: libviews/coverageview.cpp:84
 msgctxt "CoverageView|"
@@ -1143,20 +1064,6 @@ msgid ""
 "selected one of this information panel. If there are two panels (Split "
 "mode), the function of the other panel is changed instead.</p>"
 msgstr ""
-"<b>Kõigi väljakutsujate nimekiri</b><p>See nimekiri näitab kõiki "
-"funktsioone, mis kutsuvad välja parajasti valitud funktsiooni kas otse või "
-"mitme funktsiooni vahendusel pinus. Vahepealsete funktsioonide arvu "
-"nimetatakse <em>vahemaaks</em> (nt. funktsioonide A, B, C korral on "
-"väljakutse A-lt C-le, kui A kutsub välja B ja B kutsub välja C, s.t. A => B "
-"=> C. Vahemaa on antud juhul 2).</p><p>Näidatav absoluutne kulu on valitud "
-"funktsiooni kulu, kui see on aktiivne. Suhteline kulu on protsent valitud "
-"funktsiooni kogukulust, kui see on aktiivne. Kulugraafik näitab "
-"logaritmilist protsenti erinevate värvidega iga vahemaa kohta.</p><p>Et "
-"ühelt funktsioonilt võib olla palju väljakutseid, näitab vahemaa veerg "
-"mõnikord kõigi väljakutsete vahemaade vahemikku. Sellisel juhul on sulgudes "
-"keskmine vahemaa, s.t. vahemaa, kuhu langeb enamik väljakutsete kulusid.</"
-"p><p>Funktsiooni valimine muudab selle infopaneelil aktiivseks. Kui on kaks "
-"paneeli (poolitatud režiimis), muudetakse teise paneeli funktsiooni.</p>"
 
 #: libviews/coverageview.cpp:114
 msgctxt "CoverageView|"
@@ -1177,56 +1084,42 @@ msgid ""
 "selected one of this information panel. If there are two panels (Split "
 "mode), the function of the other panel is changed instead.</p>"
 msgstr ""
-"<b>Kõigi väljakutsutute nimekiri</b><p>See nimekiri näitab kõiki "
-"funktsioone, mida kutsub välja parajasti valitud funktsioon kas otse või "
-"mitme funktsiooni vahendusel pinus. Vahepealsete funktsioonide arvu "
-"nimetatakse <em>vahemaaks</em> (nt. funktsioonide A, B, C korral on "
-"väljakutse A-lt C-le, kui A kutsub välja B ja B kutsub välja C, s.t. A => B "
-"=> C. Vahemaa on antud juhul 2).</p><p>Näidatav absoluutne kulu on valitud "
-"funktsiooni kulu, kui see on aktiivne. Suhteline kulu on protsent valitud "
-"funktsiooni kogukulust, kui see on aktiivne. Kulugraafik näitab "
-"logaritmilist protsenti erinevate värvidega iga vahemaa kohta.</p><p>Et "
-"ühele funktsioonile võib olla palju väljakutseid, näitab vahemaa veerg "
-"mõnikord kõigi väljakutsete vahemaade vahemikku. Sellisel juhul on sulgudes "
-"keskmine vahemaa, s.t. vahemaa, kuhu langeb enamik väljakutsete kulusid.</"
-"p><p>Funktsiooni valimine muudab selle infopaneelil aktiivseks. Kui on kaks "
-"paneeli (poolitatud režiimis), muudetakse teise paneeli funktsiooni.</p>"
 
 #: libviews/coverageview.cpp:160
 #, qt-format
 msgctxt "CoverageView|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/eventtypeitem.cpp:48
 msgctxt "QObject|"
 msgid "Unknown Type"
-msgstr "Tundmatu tüüp"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:37
 msgctxt "EventTypeView|"
 msgid "Event Type"
-msgstr "Sündmuse tüüp"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:38
 msgctxt "EventTypeView|"
 msgid "Incl."
-msgstr "Kumul."
+msgstr ""
 
 #: libviews/eventtypeview.cpp:39
 msgctxt "EventTypeView|"
 msgid "Self"
-msgstr "Oma"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:40
 msgctxt "EventTypeView|"
 msgid "Short"
-msgstr "Lühike"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:42
 msgctxt "EventTypeView|"
 msgid "Formula"
-msgstr "Valem"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:76
 msgctxt "EventTypeView|"
@@ -1236,118 +1129,114 @@ msgid ""
 "type.</p><p>By choosing a cost type from the list, you change the cost type "
 "of costs shown all over KCachegrind to be the selected one.</p>"
 msgstr ""
-"<b>Kulutüüpide nimekiri</b><p>See nimekiri näitab kõiki saadaolevaid "
-"kulutüüpe ja parajasti valitud funktsiooni oma/kumulatiivset kulu antud "
-"kulutüübi korral.</p><p>Nimekirjast kulutüübi valimine muudab kõikjal "
-"KCachegrindis näidatava kulutüübi valitud tüübiks.</p>"
 
 #: libviews/eventtypeview.cpp:96
 msgctxt "EventTypeView|"
 msgid "Set as Secondary Event Type"
-msgstr "Määra sekundaarseks sündmuse tüübiks"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:98
 msgctxt "EventTypeView|"
 msgid "Hide Secondary Event Type"
-msgstr "Peida sekundaarne sündmuse tüüp"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:107
 msgctxt "EventTypeView|"
 msgid "Edit Long Name"
-msgstr "Muuda pikka nime"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:108
 msgctxt "EventTypeView|"
 msgid "Edit Short Name"
-msgstr "Muuda lühikest nime"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:109
 msgctxt "EventTypeView|"
 msgid "Edit Formula"
-msgstr "Muuda valemit"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:110
 msgctxt "EventTypeView|"
 msgid "Remove"
-msgstr "Eemalda"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:119
 msgctxt "EventTypeView|"
 msgid "New Event Type..."
-msgstr "Uus sündmuse tüüp..."
+msgstr ""
 
 #: libviews/eventtypeview.cpp:154 libviews/eventtypeview.cpp:159
 #, qt-format
 msgctxt "EventTypeView|"
 msgid "New%1"
-msgstr "Uus%1"
+msgstr ""
 
 #: libviews/eventtypeview.cpp:160
 #, qt-format
 msgctxt "EventTypeView|"
 msgid "New Event Type %1"
-msgstr "Uus sündmuse tüüp %1"
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:45
 msgctxt "FunctionListModel|"
 msgid "Incl."
-msgstr "Kumul."
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:46
 msgctxt "FunctionListModel|"
 msgid "Self"
-msgstr "Oma"
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:47
 msgctxt "FunctionListModel|"
 msgid "Called"
-msgstr "Välja kutsutud"
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:48
 msgctxt "FunctionListModel|"
 msgid "Function"
-msgstr "Funktsioon"
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:49
 msgctxt "FunctionListModel|"
 msgid "Location"
-msgstr "Asukoht"
+msgstr ""
 
 #: libviews/functionlistmodel.cpp:89
 #, qt-format
 msgctxt "FunctionListModel|"
 msgid "(%1 function(s) skipped)"
-msgstr "(%1 funktsioon(i) jäeti vahele)"
+msgstr ""
 
 #: libviews/functionselection.cpp:87
 msgctxt "FunctionSelection|"
 msgid "Function Profile"
-msgstr "Funktsiooni profiil"
+msgstr ""
 
 #: libviews/functionselection.cpp:95
 msgctxt "FunctionSelection|"
 msgid "&Search:"
-msgstr "&Otsing:"
+msgstr ""
 
 #: libviews/functionselection.cpp:101
 msgctxt "FunctionSelection|"
 msgid "Search Query"
-msgstr "Otsingupäring"
+msgstr ""
 
 #: libviews/functionselection.cpp:116
 msgctxt "FunctionSelection|"
 msgid "Self"
-msgstr "Oma"
+msgstr ""
 
 #: libviews/functionselection.cpp:116
 msgctxt "FunctionSelection|"
 msgid "Group"
-msgstr "Rühm"
+msgstr ""
 
 #: libviews/functionselection.cpp:159 libviews/functionselection.cpp:504
 msgctxt "FunctionSelection|"
 msgid "(No Grouping)"
-msgstr "(Rühmitamine puudub)"
+msgstr ""
 
 #: libviews/functionselection.cpp:209
 msgctxt "FunctionSelection|"
@@ -1359,95 +1248,89 @@ msgid ""
 "the selected group (or all for 'Function' group type), ordered by the costs "
 "spent therein. Functions with costs less than 1% are hidden on default.</p>"
 msgstr ""
-"<b>Lameprofiil</b><p>Lameprofiil koosneb grupi- ja funktsiooninimekirjast. "
-"Grupinimekiri sisaldab kõiki kulugruppe sõltuvalt valitud grupitüübist. "
-"Grupinimekiri on peidetud, kui valida grupitüüp 'Funktsioon'.</"
-"p><p>Funktsiooninimekiri sisaldab valitud grupi funktsioone (või ka kõiki "
-"funktsioone, kui valitud on grupitüüp 'Funktsioon') järjestatuna vastavalt "
-"kulule. Funktsioonid, mille kulu jääb alla 1%, on vaikimisi peidetud.</p>"
 
 #: libviews/functionselection.cpp:287
 #, qt-format
 msgctxt "FunctionSelection|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/functionselection.cpp:297 libviews/functionselection.cpp:317
 msgctxt "FunctionSelection|"
 msgid "Grouping"
-msgstr "Rühmitamine"
+msgstr ""
 
 #: libviews/functionselection.cpp:353
 msgctxt "FunctionSelection|"
 msgid "No Grouping"
-msgstr "Rühmitamine puudub"
+msgstr ""
 
 #: libviews/instritem.cpp:114 libviews/sourceitem.cpp:94
 #, qt-format
 msgctxt "QObject|"
 msgid "Active call to '%1'"
-msgstr "'%1' aktiivne väljakutse"
+msgstr ""
 
 #: libviews/instritem.cpp:116 libviews/sourceitem.cpp:96
 #, qt-format
 msgctxt "QObject|"
 msgid "Call to '%1'"
-msgstr "Väljakutse %1-le"
+msgstr ""
 
 #: libviews/instritem.cpp:122 libviews/sourceitem.cpp:100
 #, qt-format
 msgctxt "QObject|"
 msgid "%n call(s) to '%2'"
 msgid_plural "%n call(s) to '%2'"
-msgstr[0] "%n väljakutse(t) %2-le"
-msgstr[1] "%n väljakutse(t) %2-le"
+msgstr[0] ""
+msgstr[1] ""
 
 #: libviews/instritem.cpp:155
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 of %2 times to 0x%3"
-msgstr "Hüpe %1 %2 hüppest aadressile 0x%3"
+msgstr ""
 
 #: libviews/instritem.cpp:160
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 times to 0x%2"
-msgstr "Hüpe %1 korda aadressile 0x%2"
+msgstr ""
 
 #: libviews/instritem.cpp:201 libviews/sourceitem.cpp:184
 msgctxt "QObject|"
 msgid "(cycle)"
-msgstr "(tsükkel)"
+msgstr ""
 
 #: libviews/instrview.cpp:193
 msgctxt "InstrView|"
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: libviews/instrview.cpp:194
 msgctxt "InstrView|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/instrview.cpp:195
 msgctxt "InstrView|"
 msgid "Cost 2"
-msgstr "Kulu 2"
+msgstr ""
 
 #: libviews/instrview.cpp:197
 msgctxt "InstrView|"
 msgid "Hex"
-msgstr "16nd"
+msgstr ""
 
 #: libviews/instrview.cpp:199
 msgctxt "InstrView|"
 msgid "Assembly Instructions"
-msgstr "Assembleri instruktsioonid"
+msgstr ""
 
 #: libviews/instrview.cpp:200
 msgctxt "InstrView|"
 msgid "Source Position"
-msgstr "Lähtekoodi asukoht"
+msgstr ""
 
 #: libviews/instrview.cpp:236
 msgctxt "InstrView|"
@@ -1461,170 +1344,162 @@ msgid ""
 "utility from the 'binutils' package.</p><p>Select a line with call "
 "information to make the destination function of this call current.</p>"
 msgstr ""
-"<b>Annoteeritud masinkood</b><p>Annoteeritud masinkoodi nimekiri näitab "
-"parajasti valitud funktsiooni assembleri instruktsioone koos instruktsiooni "
-"täitmise kuluga. Kui see on väljakutseinstruktsioon, lisatakse lähtekoodi "
-"read väljakutse detailidega: (kumulatiivne) väljakutse kulu, väljakutsete "
-"arv ja väljakutse sihtkoht.</p><p>Näidatav masinkood genereeritakse "
-"utiliidiga 'objdump', mis kuulub tarkvarapaketi 'binutils' koosseisu.</"
-"p><p>Vali rida väljakutseinfoga, et muuta selle väljakutse sihtfunktsioon "
-"aktiivseks.</p>"
 
 #: libviews/instrview.cpp:265
 #, qt-format
 msgctxt "InstrView|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/instrview.cpp:270
 #, qt-format
 msgctxt "InstrView|"
 msgid "Go to Address %1"
-msgstr "Mine aadressile %1"
+msgstr ""
 
 #: libviews/instrview.cpp:282
 msgctxt "InstrView|"
 msgid "Hex Code"
-msgstr "Kuueteistkümnendkood"
+msgstr ""
 
 #: libviews/instrview.cpp:573
 msgctxt "InstrView|"
 msgid "There is no instruction info in the profile data file."
-msgstr "Profiiliandmete failis puudub instruktsiooniinfo."
+msgstr ""
 
 #: libviews/instrview.cpp:575
 msgctxt "InstrView|"
 msgid "Tip: For Callgrind, rerun with option"
-msgstr "Vihje: Callgrindi korral käivita uuesti võtmega"
+msgstr ""
 
 #: libviews/instrview.cpp:576
 msgctxt "InstrView|"
 msgid "      --dump-instr=yes"
-msgstr "      --dump-instr=yes"
+msgstr ""
 
 #: libviews/instrview.cpp:577
 msgctxt "InstrView|"
 msgid "To see (conditional) jumps, additionally specify"
-msgstr "(Tingimuslike) hüpete nägemiseks anna veel ka"
+msgstr ""
 
 #: libviews/instrview.cpp:578
 msgctxt "InstrView|"
 msgid "      --collect-jumps=yes"
-msgstr "      --collect-jumps=yes"
+msgstr ""
 
 #: libviews/instrview.cpp:826
 msgctxt "InstrView|"
 msgid "For annotated machine code, the following object file is needed:"
-msgstr "Annoteeritud masinkood vajab järgmist objektifaili:"
+msgstr ""
 
 #: libviews/instrview.cpp:831
 msgctxt "InstrView|"
 msgid "This file can not be found."
-msgstr "Seda faili ei leitud."
+msgstr ""
 
 #: libviews/instrview.cpp:834
 msgctxt "InstrView|"
 msgid "If cross-compiled, set SYSROOT variable."
-msgstr "Ristkompileerimise korral tuleb määrata muutuja SYSROOT."
+msgstr ""
 
 #: libviews/instrview.cpp:858
 msgctxt "InstrView|"
 msgid "There is an error trying to execute the command"
-msgstr "Tekkis tõrge, kui üritati käivitada käsku"
+msgstr ""
 
 #: libviews/instrview.cpp:862 libviews/instrview.cpp:1158
 msgctxt "InstrView|"
 msgid "Check that you have installed 'objdump'."
-msgstr "Kontrolli, et oleksid paigaldanud utiliidi 'objdump'."
+msgstr ""
 
 #: libviews/instrview.cpp:864 libviews/instrview.cpp:1160
 msgctxt "InstrView|"
 msgid "This utility can be found in the 'binutils' package."
-msgstr "Selle leiab paketist 'binutils'."
+msgstr ""
 
 #: libviews/instrview.cpp:966
 msgctxt "InstrView|"
 msgid "(No Instruction)"
-msgstr "(Instruktsioon puudub)"
+msgstr ""
 
 #: libviews/instrview.cpp:1134
 #, qt-format
 msgctxt "InstrView|"
 msgid "There are %n cost line(s) without machine code."
 msgid_plural "There are %n cost line(s) without machine code."
-msgstr[0] "%n kulurida on ilma masinkoodita."
-msgstr[1] "%n kulurida on ilma masinkoodita."
+msgstr[0] ""
+msgstr[1] ""
 
 #: libviews/instrview.cpp:1136
 msgctxt "InstrView|"
 msgid "This happens because the code of"
-msgstr "See juhtub seepärast, et"
+msgstr ""
 
 #: libviews/instrview.cpp:1139
 msgctxt "InstrView|"
 msgid "does not seem to match the profile data file."
-msgstr "kood ei paista vastavat profiiliandmete failile."
+msgstr ""
 
 #: libviews/instrview.cpp:1142
 msgctxt "InstrView|"
 msgid "Are you using an old profile data file or is the above mentioned"
-msgstr "Kas kasutad vana profiiliandmete faili või on ülalmainitud"
+msgstr ""
 
 #: libviews/instrview.cpp:1144
 msgctxt "InstrView|"
 msgid "ELF object from an updated installation/another machine?"
-msgstr "ELF-objekt uuemast paigaldusest või mõnest muust masinast?"
+msgstr ""
 
 #: libviews/instrview.cpp:1152
 msgctxt "InstrView|"
 msgid "There seems to be an error trying to execute the command"
-msgstr "Paistab, et tekkis tõrge, kui üritati käivitada käsku"
+msgstr ""
 
 #: libviews/instrview.cpp:1156
 msgctxt "InstrView|"
 msgid "Check that the ELF object used in the command exists."
-msgstr "Kontrolli, et käsus kasutatud ELF-objekt on olemas."
+msgstr ""
 
 #: libviews/partgraph.cpp:154
 #, qt-format
 msgctxt "QObject|"
 msgid "Profile Part %1"
-msgstr "Profiili osa %1"
+msgstr ""
 
 #: libviews/partgraph.cpp:211
 msgctxt "QObject|"
 msgid "(no trace)"
-msgstr "(jälitust pole)"
+msgstr ""
 
 #: libviews/partgraph.cpp:214
 msgctxt "QObject|"
 msgid "(no part)"
-msgstr "(osa pole)"
+msgstr ""
 
 #: libviews/partlistitem.cpp:39
 msgctxt "QObject|"
 msgid "(none)"
-msgstr "(puudub)"
+msgstr ""
 
 #: libviews/partselection.cpp:48
 msgctxt "PartSelection|"
 msgid "Parts Overview"
-msgstr "Jälitusosade ülevaade"
+msgstr ""
 
 #: libviews/partselection.cpp:61
 msgctxt "PartSelection|A thing's name"
 msgid "Name"
-msgstr "Nimi"
+msgstr ""
 
 #: libviews/partselection.cpp:62
 msgctxt "PartSelection|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/partselection.cpp:69
 msgctxt "PartSelection|"
 msgid "(no trace parts)"
-msgstr "(jälitusosi pole)"
+msgstr ""
 
 #: libviews/partselection.cpp:96
 msgctxt "PartSelection|"
@@ -1643,158 +1518,145 @@ msgid ""
 "current selected function in the trace part is shown. This is split up into "
 "smaller rectangles to show the costs of its callees.</li></ul></p>"
 msgstr ""
-"<b>Jälitusosade ülevaade</b><p>Jälitus koosneb paljudest jälitusosadest, kui "
-"ühes profileerimises on mitu jälitusfaili. Jälitusosade ülevaate dokk näitab "
-"neid korraldatuna horisontaalselt vastavalt käivitamise ajale. Ristkülikute "
-"suurus on võrdeline osa kogukuluga. Võimalik on valida üks või mitu osa, et "
-"piirata kulu näitamist ainult ühe või mõne osaga.</p><p>Osad on täiendavalt "
-"jagatud kas partitsioneerimis- või kumulatiivses režiimis: "
-"<ul><li>Partitsioneerimine: jälitusosad on jagatud gruppidesse vastavalt "
-"valitud grupitüübile. Kui näiteks valitud on ELF-objektide grupid, on näha "
-"värvilised ristkülikud iga kasutatud ELF-objekti kohta (ühisteek või "
-"käivitatav fail), mille suurus vastab kulule.</li><li>Kumulatiivne jaotus: "
-"näidatakse jälitusosas parajasti valitud funktsiooni kumulatiivset kulu "
-"esindavat ristkülikut. See on omakorda jagatud funktsiooni väljakutsujate "
-"kumulatiivse kulu näitamiseks.</li></ul></p>"
 
 #: libviews/partselection.cpp:231
 #, qt-format
 msgctxt "PartSelection|"
 msgid "Profile Part Overview: Current is '%1'"
-msgstr "Profiili osade ülevaade: aktiivne on '%1'"
+msgstr ""
 
 #: libviews/partselection.cpp:337
 #, qt-format
 msgctxt "PartSelection|"
 msgid "Deselect '%1'"
-msgstr "Tühista '%1' valik"
+msgstr ""
 
 #: libviews/partselection.cpp:339
 #, qt-format
 msgctxt "PartSelection|"
 msgid "Select '%1'"
-msgstr "Vali '%1'"
+msgstr ""
 
 #: libviews/partselection.cpp:344
 msgctxt "PartSelection|"
 msgid "Select All Parts"
-msgstr "Vali kõik osad"
+msgstr ""
 
 #: libviews/partselection.cpp:345
 msgctxt "PartSelection|"
 msgid "Visible Parts"
-msgstr "Nähtavad osad"
+msgstr ""
 
 #: libviews/partselection.cpp:346
 msgctxt "PartSelection|"
 msgid "Hide Selected Parts"
-msgstr "Peida valitud osad"
+msgstr ""
 
 #: libviews/partselection.cpp:347
 msgctxt "PartSelection|"
 msgid "Show Hidden Parts"
-msgstr "Näita peidetud osasid"
+msgstr ""
 
 #: libviews/partselection.cpp:361
 #, qt-format
 msgctxt "PartSelection|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/partselection.cpp:370
 msgctxt "PartSelection|"
 msgid "Visualization"
-msgstr "Kuvamine"
+msgstr ""
 
 #: libviews/partselection.cpp:371
 msgctxt "PartSelection|"
 msgid "Partitioning Mode"
-msgstr "Osadeks jagamise režiim"
+msgstr ""
 
 #: libviews/partselection.cpp:373
 msgctxt "PartSelection|"
 msgid "Zoom Function"
-msgstr "Suurendusfunktsioon"
+msgstr ""
 
 #: libviews/partselection.cpp:375
 msgctxt "PartSelection|"
 msgid "Show Direct Calls"
-msgstr "Näita otseväljakutseid"
+msgstr ""
 
 #: libviews/partselection.cpp:376
 msgctxt "PartSelection|"
 msgid "Increment Shown Call Levels"
-msgstr "Näita väljakutse taset taandusega"
+msgstr ""
 
 #: libviews/partselection.cpp:377
 msgctxt "PartSelection|"
 msgid "Diagram Mode"
-msgstr "Skeemirežiim"
+msgstr ""
 
 #: libviews/partselection.cpp:392
 msgctxt "PartSelection|"
 msgid "Draw Names"
-msgstr "Näita nimesid"
+msgstr ""
 
 #: libviews/partselection.cpp:394
 msgctxt "PartSelection|"
 msgid "Draw Costs"
-msgstr "Näita kulu"
+msgstr ""
 
 #: libviews/partselection.cpp:396
 msgctxt "PartSelection|"
 msgid "Ignore Proportions"
-msgstr "Ignoreeri proportsioone"
+msgstr ""
 
 #: libviews/partselection.cpp:398
 msgctxt "PartSelection|"
 msgid "Allow Rotation"
-msgstr "Luba pööramine"
+msgstr ""
 
 #: libviews/partselection.cpp:400
 msgctxt "PartSelection|"
 msgid "Draw Frames"
-msgstr "Näita raame"
+msgstr ""
 
 #: libviews/partselection.cpp:414
 msgctxt "PartSelection|"
 msgid "Hide Info"
-msgstr "Peida info"
+msgstr ""
 
 #: libviews/partselection.cpp:414
 msgctxt "PartSelection|"
 msgid "Show Info"
-msgstr "Näita infot"
+msgstr ""
 
 #: libviews/partselection.cpp:562
 msgctxt "PartSelection|"
 msgid "(no trace loaded)"
-msgstr "(jälitust pole laaditud)"
+msgstr ""
 
 #: libviews/partview.cpp:37
 msgctxt "PartView|"
 msgid "Profile Part"
-msgstr "Profiili osa"
+msgstr ""
 
 #: libviews/partview.cpp:38
 msgctxt "PartView|"
 msgid "Incl."
-msgstr "Kumul."
+msgstr ""
 
 #: libviews/partview.cpp:39
 msgctxt "PartView|"
 msgid "Self"
-msgstr "Oma"
+msgstr ""
 
 #: libviews/partview.cpp:40
 msgctxt "PartView|"
 msgid "Called"
-msgstr "Välja kutsutud"
+msgstr ""
 
 #: libviews/partview.cpp:41
 msgctxt "PartView|"
 msgid "Comment"
-msgstr "Kommentaar"
+msgstr ""
 
 #: libviews/partview.cpp:68
 msgctxt "PartView|"
@@ -1813,51 +1675,38 @@ msgid ""
 "Part Overview Dockable. This one also supports multiple selection.</"
 "p><p>Note that the list is hidden if only one trace part is loaded.</p>"
 msgstr ""
-"<b>Jälitusosade nimekiri</b><p>See nimekiri näitab kõiki laaditud jälituse "
-"osasid. Iga osa puhul näidatakse parajasti valitud funktsiooni kumulatiivset/"
-"omakulu osas. Protsentuaalne kulu on alati seotud <em>osa</em> kogukuluga "
-"(mitte terve jälitusega, nagu jälitusosade ülevaates). Samuti näidatakse "
-"väljakutseid aktiivselt funktsioonilt/aktiivsele funktsioonile antud "
-"jälitusosas.</p><p>Ühe või rohkema jälitusosa valimisel nimekirjas "
-"näidatakse KCachegrindis ainult valitud osa(de) kulu. Kui midagi ei ole "
-"otseselt valitud, käsitletakse vaikimisi valituna kõiki jälitusosasid.</"
-"p><p>Nimekiri võimaldab valida mitmeid elemente korraga. Vahemikku saab "
-"valida hiirt lohistades või klahve Shift/Ctrl kasutades. Jälitusosasid saab "
-"valida või nende valimist tühistada ka jälitusosade ülevaate doki abil. Ka "
-"too toetab mitme elemendi valimist.</p><p>Pane tähele, et nimekiri on "
-"peidetud, kui laaditud on ainult üks jälitusosa.</p>"
 
 #: libviews/sourceitem.cpp:141
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 of %2 times to %3"
-msgstr "Hüpe %1 %2 hüppest %3-le"
+msgstr ""
 
 #: libviews/sourceitem.cpp:146
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 times to %2"
-msgstr "Hüpe %1 korda %2-le"
+msgstr ""
 
 #: libviews/sourceview.cpp:51
 msgctxt "SourceView|"
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: libviews/sourceview.cpp:52
 msgctxt "SourceView|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/sourceview.cpp:53
 msgctxt "SourceView|"
 msgid "Cost 2"
-msgstr "Kulu 2"
+msgstr ""
 
 #: libviews/sourceview.cpp:55
 msgctxt "SourceView|"
 msgid "Source"
-msgstr "Lähtekood"
+msgstr ""
 
 #: libviews/sourceview.cpp:83
 msgctxt "SourceView|"
@@ -1870,256 +1719,250 @@ msgid ""
 "call destination.</p><p>Select a inserted call information line to make the "
 "destination function current.</p>"
 msgstr ""
-"<b>Annoteeritud lähtekood</b><p>Annoteeritud lähtekoodi nimekiri näitab "
-"parajasti valitud funktsiooni koodiridu koos (oma)kuluga selle rea koodi "
-"täitmisel. Kui koodireal on väljakutse, lisatakse lähtekoodi read väljakutse "
-"detailidega: (kumulatiivne) väljakutse kulu, väljakutsete arv ja väljakutse "
-"sihtkoht.</p><p>Vali lisatud väljakutseinfo rida, et muuta sihtfunktsioon "
-"aktiivseks.</p>"
 
 #: libviews/sourceview.cpp:110
 #, qt-format
 msgctxt "SourceView|"
 msgid "Go to '%1'"
-msgstr "Mine '%1'"
+msgstr ""
 
 #: libviews/sourceview.cpp:115
 #, qt-format
 msgctxt "SourceView|"
 msgid "Go to Line %1"
-msgstr "Liigu reale %1"
+msgstr ""
 
 #: libviews/sourceview.cpp:627
 msgctxt "SourceView|"
 msgid "There is no cost of current selected type associated"
-msgstr "Valitud tüübil puudub kulu, mis oleks seotud"
+msgstr ""
 
 #: libviews/sourceview.cpp:629
 msgctxt "SourceView|"
 msgid "with any source line of this function in file"
-msgstr "mis tahes antud funktsiooni lähtekoodireaga failis"
+msgstr ""
 
 #: libviews/sourceview.cpp:633
 msgctxt "SourceView|"
 msgid "Thus, no annotated source can be shown."
-msgstr "Seepärast ei saa ka näidata annoteeritud lähtekoodi."
+msgstr ""
 
 #: libviews/sourceview.cpp:658
 #, qt-format
 msgctxt "SourceView|"
 msgid "--- From '%1' ---"
-msgstr "--- '%1'-st ---"
+msgstr ""
 
 #: libviews/sourceview.cpp:663
 #, qt-format
 msgctxt "SourceView|"
 msgid "--- Inlined from '%1' ---"
-msgstr "--- Siseseks muudetud '%1'-st ---"
+msgstr ""
 
 #: libviews/sourceview.cpp:664
 msgctxt "SourceView|"
 msgid "--- Inlined from unknown source ---"
-msgstr "--- Siseseks muudetud tundmatust lähtekoodist ---"
+msgstr ""
 
 #: libviews/sourceview.cpp:669
 msgctxt "SourceView|"
 msgid "There is no source available for the following function:"
-msgstr "Puudub lähtekood järgmisele funktsioonile:"
+msgstr ""
 
 #: libviews/sourceview.cpp:674
 msgctxt "SourceView|"
 msgid "This is because no debug information is present."
-msgstr "Seda sellepärast, et pole mingit silumisinfot."
+msgstr ""
 
 #: libviews/sourceview.cpp:676
 msgctxt "SourceView|"
 msgid "Recompile source and redo the profile run."
-msgstr "Kompileeri lähtekood uuesti ja käivita uus profileerimine."
+msgstr ""
 
 #: libviews/sourceview.cpp:679
 msgctxt "SourceView|"
 msgid "The function is located in this ELF object:"
-msgstr "Funktsioon asub järgmises ELF-objektis:"
+msgstr ""
 
 #: libviews/sourceview.cpp:687
 msgctxt "SourceView|"
 msgid "This is because its source file cannot be found:"
-msgstr "Seda sellepärast, et selle lähtefaili ei leitud:"
+msgstr ""
 
 #: libviews/sourceview.cpp:691
 msgctxt "SourceView|"
 msgid "Add the folder of this file to the source folder list."
-msgstr "Lisa selle faili kataloog lähtekataloogide nimekirja."
+msgstr ""
 
 #: libviews/sourceview.cpp:693
 msgctxt "SourceView|"
 msgid "The list can be found in the configuration dialog."
-msgstr "Nimekirja leiab seadistustedialoogist."
+msgstr ""
 
 #: libviews/stackselection.cpp:36
 msgctxt "StackSelection|"
 msgid "Stack Selection"
-msgstr "Pinu valik"
+msgstr ""
 
 #: libviews/stackselection.cpp:44
 msgctxt "StackSelection|"
 msgid "Cost"
-msgstr "Kulu"
+msgstr ""
 
 #: libviews/stackselection.cpp:45
 msgctxt "StackSelection|"
 msgid "Cost2"
-msgstr "Kulu2"
+msgstr ""
 
 #: libviews/stackselection.cpp:46
 msgctxt "StackSelection|"
 msgid "Calls"
-msgstr "Väljakutsed"
+msgstr ""
 
 #: libviews/stackselection.cpp:47
 msgctxt "StackSelection|"
 msgid "Function"
-msgstr "Funktsioon"
+msgstr ""
 
 #: libviews/tabview.cpp:103
 msgctxt "TabBar|"
 msgid "Move to Top"
-msgstr "Liiguta üles"
+msgstr ""
 
 #: libviews/tabview.cpp:104
 msgctxt "TabBar|Move to Top"
 msgid "Top"
-msgstr "Üles"
+msgstr ""
 
 #: libviews/tabview.cpp:107
 msgctxt "TabBar|"
 msgid "Move to Right"
-msgstr "Liiguta paremale"
+msgstr ""
 
 #: libviews/tabview.cpp:108
 msgctxt "TabBar|Move to Right"
 msgid "Right"
-msgstr "Paremale"
+msgstr ""
 
 #: libviews/tabview.cpp:111
 msgctxt "TabBar|"
 msgid "Move to Bottom"
-msgstr "Liiguta alla"
+msgstr ""
 
 #: libviews/tabview.cpp:112
 msgctxt "TabBar|Move to Bottom"
 msgid "Bottom"
-msgstr "Alla"
+msgstr ""
 
 #: libviews/tabview.cpp:115
 msgctxt "TabBar|"
 msgid "Move to Bottom Left"
-msgstr "Liiguta alla vasakule"
+msgstr ""
 
 #: libviews/tabview.cpp:116
 msgctxt "TabBar|Move to Bottom Left"
 msgid "Bottom Left"
-msgstr "All vasakul"
+msgstr ""
 
 #: libviews/tabview.cpp:118
 msgctxt "TabBar|"
 msgid "Move Area To"
-msgstr "Ala asukoht"
+msgstr ""
 
 #: libviews/tabview.cpp:121
 msgctxt "TabBar|"
 msgid "Hide This Tab"
-msgstr "Peida see kaart"
+msgstr ""
 
 #: libviews/tabview.cpp:122
 msgctxt "TabBar|"
 msgid "Hide Area"
-msgstr "Peida ala"
+msgstr ""
 
 #: libviews/tabview.cpp:131
 msgctxt "TabBar|Show on Top"
 msgid "Top"
-msgstr "Üles"
+msgstr ""
 
 #: libviews/tabview.cpp:132
 msgctxt "TabBar|Show on Right"
 msgid "Right"
-msgstr "Paremale"
+msgstr ""
 
 #: libviews/tabview.cpp:133
 msgctxt "TabBar|Show on Bottom"
 msgid "Bottom"
-msgstr "Alla"
+msgstr ""
 
 #: libviews/tabview.cpp:134
 msgctxt "TabBar|Show on Bottom Left"
 msgid "Bottom Left"
-msgstr "All vasakul"
+msgstr ""
 
 #: libviews/tabview.cpp:135
 msgctxt "TabBar|"
 msgid "Show Hidden On"
-msgstr "Näita peidetuid"
+msgstr ""
 
 #: libviews/tabview.cpp:308 libviews/tabview.cpp:310 libviews/tabview.cpp:727
 msgctxt "TabView|"
 msgid "(No profile data file loaded)"
-msgstr "(Profiiliandmete faili pole laaditud)"
+msgstr ""
 
 #: libviews/tabview.cpp:370
 msgctxt "TabView|"
 msgid "Types"
-msgstr "Tüübid"
+msgstr ""
 
 #: libviews/tabview.cpp:373
 msgctxt "TabView|"
 msgid "Callers"
-msgstr "Väljakutsujad"
+msgstr ""
 
 #: libviews/tabview.cpp:374
 msgctxt "TabView|"
 msgid "All Callers"
-msgstr "Kõik väljakutsujad"
+msgstr ""
 
 #: libviews/tabview.cpp:375
 msgctxt "TabView|"
 msgid "Callee Map"
-msgstr "Väljakutsutute kaart"
+msgstr ""
 
 #: libviews/tabview.cpp:378
 msgctxt "TabView|"
 msgid "Source Code"
-msgstr "Lähtekood"
+msgstr ""
 
 #: libviews/tabview.cpp:380
 msgctxt "TabView|"
 msgid "Parts"
-msgstr "Osad"
+msgstr ""
 
 #: libviews/tabview.cpp:381
 msgctxt "TabView|"
 msgid "Callees"
-msgstr "Väljakutsutud"
+msgstr ""
 
 #: libviews/tabview.cpp:382
 msgctxt "TabView|"
 msgid "Call Graph"
-msgstr "Väljakutsegraafik"
+msgstr ""
 
 #: libviews/tabview.cpp:385
 msgctxt "TabView|"
 msgid "All Callees"
-msgstr "Kõik väljakutsutud"
+msgstr ""
 
 #: libviews/tabview.cpp:386
 msgctxt "TabView|"
 msgid "Caller Map"
-msgstr "Väljakutsujate kaart"
+msgstr ""
 
 #: libviews/tabview.cpp:389
 msgctxt "TabView|"
 msgid "Machine Code"
-msgstr "Masinkood"
+msgstr ""
 
 #: libviews/tabview.cpp:643
 msgctxt "TabView|"
@@ -2141,214 +1984,64 @@ msgid ""
 "ul>For more information, see the <em>What's This?</em> help of the "
 "corresponding tab widget.</p>"
 msgstr ""
-"<b>Infokaardid</b><p>See element näitab parajasti valitud funktsiooni kohta "
-"infot mitmel kaardil: <ul><li>Kulukaart näitab saadaolevate kulutüüpide "
-"nimekirja ning kumulatiivset ja omakulu vastavalt tüübile.</li><li>Osade "
-"kaart näitab jälitusosade nimekirja, kui jälitus koosneb enam kui ühest "
-"osast (kui mitte, on kaart peidetud). Näidatakse valitud funktsiooni kulu "
-"erinevates osades koos vastavate väljakutsetega.</li><li>Väljakutsete "
-"nimekirja kaart näitab funktsiooni otseseid väljakutsujaid ja väljakutsutuid "
-"üksikasjalikumalt.</li><li>Koguinfo kaart näitab sama, mis väljakutsete "
-"nimekirja kaart, kuid lisaks otsestele väljakutsujatele ja väljakutsututele "
-"ka kaudseid.</li><li>Väljakutsete graafiku kaart näitab visuaalselt antud "
-"funktsiooni väljakutseid.</li><li>Lähtekoodi kaart näitab annoteeritud "
-"lähtekoodi, kui on saadaval silumisinfo ja lähtefail.</li><li>Masinkoodi "
-"kaart näitab annoteeritud assembleri instruktsioone, kui on saadaval "
-"instruktsioonitaseme jälitusinfo.</li></ul> Täpsemat infot saab vastava "
-"kaardi <em>Mis see on?</em> abivõimalust kasutades.</p>"
 
 #: libviews/tabview.cpp:728
 msgctxt "TabView|"
 msgid "(No function selected)"
-msgstr "(Funktsiooni pole valitud)"
+msgstr ""
 
 #: libviews/traceitemview.cpp:67
 msgctxt "QObject|"
 msgid "No description available"
-msgstr "Kirjeldus puudub"
+msgstr ""
 
 #: libviews/treemap.cpp:1334
 #, qt-format
 msgctxt "TreeMapWidget|"
 msgid "Text %1"
-msgstr "Tekst %1"
+msgstr ""
 
 #: libviews/treemap.cpp:2854
 msgctxt "TreeMapWidget|"
 msgid "Recursive Bisection"
-msgstr "Rekursiivne kaheksjaotus"
+msgstr ""
 
 #: libviews/treemap.cpp:2855
 msgctxt "TreeMapWidget|"
 msgid "Columns"
-msgstr "Veerud"
+msgstr "Columnes"
 
 #: libviews/treemap.cpp:2856
 msgctxt "TreeMapWidget|"
 msgid "Rows"
-msgstr "Read"
+msgstr "Fileres"
 
 #: libviews/treemap.cpp:2857
 msgctxt "TreeMapWidget|"
 msgid "Always Best"
-msgstr "Alati parim"
+msgstr ""
 
 #: libviews/treemap.cpp:2858
 msgctxt "TreeMapWidget|"
 msgid "Best"
-msgstr "Parim"
+msgstr ""
 
 #: libviews/treemap.cpp:2859
 msgctxt "TreeMapWidget|"
 msgid "Alternate (V)"
-msgstr "Alternatiiv (V)"
+msgstr ""
 
 #: libviews/treemap.cpp:2860
 msgctxt "TreeMapWidget|"
 msgid "Alternate (H)"
-msgstr "Alternatiiv (H)"
+msgstr ""
 
 #: libviews/treemap.cpp:2861
 msgctxt "TreeMapWidget|"
 msgid "Horizontal"
-msgstr "Horisontaalne"
+msgstr ""
 
 #: libviews/treemap.cpp:2862
 msgctxt "TreeMapWidget|"
 msgid "Vertical"
-msgstr "Vertikaalne"
-
-#~ msgctxt "CallGraphView|"
-#~ msgid "Export Graph As DOT file"
-#~ msgstr "Graafiku eksport DOT-failina"
-
-#~ msgctxt "CallGraphView|"
-#~ msgid "Graphviz (*.dot)"
-#~ msgstr "Graphviz (*.dot)"
-
-#~ msgctxt "Move to Bottom Left"
-#~ msgid "Bottom Left"
-#~ msgstr "Alla vasakule"
-
-#~ msgctxt "Show on Top"
-#~ msgid "Top"
-#~ msgstr "Ülal"
-
-#~ msgctxt "Show on Right"
-#~ msgid "Right"
-#~ msgstr "Paremal"
-
-#~ msgctxt "Show on Bottom"
-#~ msgid "Bottom"
-#~ msgstr "All"
-
-#~ msgctxt "Show on Bottom Left"
-#~ msgid "Bottom Left"
-#~ msgstr "All vasakul"
-
-#~ msgid "Source (unknown)"
-#~ msgstr "Lähtekood (tundmatu)"
-
-#~ msgid "(No Source)"
-#~ msgstr "(Lähtekood puudub)"
-
-#~ msgid "Source ('%1')"
-#~ msgstr "Lähtekood ('%1')"
-
-#~ msgid " (Thread %1)"
-#~ msgstr " (Lõim %1)"
-
-#~ msgctxt "Top"
-#~ msgid "Move to Top"
-#~ msgstr "Liiguta üles"
-
-#~ msgctxt "Right"
-#~ msgid "Move to Right"
-#~ msgstr "Liiguta paremale"
-
-#~ msgctxt "Bottom"
-#~ msgid "Move to Bottom"
-#~ msgstr "Liiguta alla"
-
-#~ msgctxt "Bottom Left"
-#~ msgid "Move to Bottom Left"
-#~ msgstr "Liiguta alla vasakule"
-
-#~ msgctxt "Top"
-#~ msgid "Show on Top"
-#~ msgstr "Näita ülal"
-
-#~ msgctxt "Right"
-#~ msgid "Show on Right"
-#~ msgstr "Näita paremal"
-
-#~ msgctxt "Bottom"
-#~ msgid "Show on Bottom"
-#~ msgstr "Näita all"
-
-#~ msgctxt "Bottom Left"
-#~ msgid "Show on Bottom Left"
-#~ msgstr "Näita all vasakul"
-
-#~ msgid "Show All Items"
-#~ msgstr "Näita kõiki elemente"
-
-#~ msgid "Nesting"
-#~ msgstr "Pesastamine"
-
-#~ msgid "Border"
-#~ msgstr "Piire"
-
-#~ msgid "Correct Borders Only"
-#~ msgstr "Ainult piirete korrigeerimine"
-
-#~ msgid "Width %1"
-#~ msgstr "Laius %1"
-
-#~ msgid "Visible"
-#~ msgstr "Nähtav"
-
-#~ msgid "Take Space From Children"
-#~ msgstr "Ruumi võetakse \"lastelt\""
-
-#~ msgid "Top Center"
-#~ msgstr "Üleval leskel"
-
-#~ msgid "Bottom Center"
-#~ msgstr "All keskel"
-
-#~ msgid "No %1 Limit"
-#~ msgstr "%1 ei ole piiratud"
-
-#~ msgid "Halve Area Limit (to %1)"
-#~ msgstr "Poolalapiirang (kuni %1)"
-
-#~ msgid "Depth %1"
-#~ msgstr "Sügavus %1"
-
-#~ msgid "Decrement (to %1)"
-#~ msgstr "Kahanemine (kuni %1)"
-
-#~ msgid "Increment (to %1)"
-#~ msgstr "Kasvamine (kuni %1)"
-
-#~ msgid "50 Pixels"
-#~ msgstr "50 pikslit"
-
-#~ msgid "Remove Secondary Event Type"
-#~ msgstr "Eemalda sekundaarne sündmuse tüüp"
-
-#~ msgid "Hide '%1'"
-#~ msgstr "Peida '%1'"
-
-#~ msgid "Hide Selected"
-#~ msgstr "Peida valitud"
-
-#~ msgid "Show All"
-#~ msgstr "Näita kõiki"
-
-#~ msgid "As PostScript"
-#~ msgstr "PostScriptina"
-
-#~ msgid "Save Image"
-#~ msgstr "Salvesta pilt"
+msgstr ""
