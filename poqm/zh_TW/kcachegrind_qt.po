@@ -6,19 +6,20 @@
 # pan93412 <pan93412@gmail.com>, 2018.
 # Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv dot tw>, 2009, 2010.
 # Jeff Huang <s8321414@gmail.com>, 2020.
+# Kisaragi Hiu <mail@kisaragi-hiu.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: kcachegrind_qt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-18 02:14+0000\n"
-"PO-Revision-Date: 2020-09-17 16:02+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
-"Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
+"PO-Revision-Date: 2023-11-11 00:29+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.08.3\n"
+"X-Generator: Lokalize 23.08.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Qt-Contexts: true\n"
 
@@ -30,7 +31,7 @@ msgstr "Cachegrind/Callgrind 產生的分析檔資料檔匯入過濾器"
 #: libcore/context.cpp:60
 msgctxt "ProfileContext|"
 msgid "Invalid Context"
-msgstr "不合法的內容"
+msgstr "無效的內容"
 
 #: libcore/context.cpp:61
 msgctxt "ProfileContext|"
@@ -443,251 +444,251 @@ msgid ""
 "because it has no cost of the selected event type."
 msgstr "沒有函式 %1 的呼叫圖，因為沒有所選取事件型態的花費。"
 
-#: libviews/callgraphview.cpp:2773
+#: libviews/callgraphview.cpp:2800
 msgctxt "CallGraphView|"
 msgid "Caller Depth"
 msgstr "呼叫者深度"
 
-#: libviews/callgraphview.cpp:2774 libviews/callgraphview.cpp:2814
+#: libviews/callgraphview.cpp:2801 libviews/callgraphview.cpp:2841
 msgctxt "CallGraphView|"
 msgid "Unlimited"
 msgstr "不限制"
 
-#: libviews/callgraphview.cpp:2777 libviews/callgraphview.cpp:2817
+#: libviews/callgraphview.cpp:2804 libviews/callgraphview.cpp:2844
 msgctxt "CallGraphView|None"
 msgid "Depth 0"
 msgstr "沒有深度 0"
 
-#: libviews/callgraphview.cpp:2778 libviews/callgraphview.cpp:2818
+#: libviews/callgraphview.cpp:2805 libviews/callgraphview.cpp:2845
 msgctxt "CallGraphView|"
 msgid "max. 1"
 msgstr "最大 1"
 
-#: libviews/callgraphview.cpp:2779 libviews/callgraphview.cpp:2819
+#: libviews/callgraphview.cpp:2806 libviews/callgraphview.cpp:2846
 msgctxt "CallGraphView|"
 msgid "max. 2"
 msgstr "最大 2"
 
-#: libviews/callgraphview.cpp:2780 libviews/callgraphview.cpp:2820
+#: libviews/callgraphview.cpp:2807 libviews/callgraphview.cpp:2847
 msgctxt "CallGraphView|"
 msgid "max. 5"
 msgstr "最大 5"
 
-#: libviews/callgraphview.cpp:2781 libviews/callgraphview.cpp:2821
+#: libviews/callgraphview.cpp:2808 libviews/callgraphview.cpp:2848
 msgctxt "CallGraphView|"
 msgid "max. 10"
 msgstr "最大 10"
 
-#: libviews/callgraphview.cpp:2782 libviews/callgraphview.cpp:2822
+#: libviews/callgraphview.cpp:2809 libviews/callgraphview.cpp:2849
 msgctxt "CallGraphView|"
 msgid "max. 15"
 msgstr "最大 15"
 
-#: libviews/callgraphview.cpp:2813
+#: libviews/callgraphview.cpp:2840
 msgctxt "CallGraphView|"
 msgid "Callee Depth"
 msgstr "被呼叫者深度"
 
-#: libviews/callgraphview.cpp:2853
+#: libviews/callgraphview.cpp:2880
 msgctxt "CallGraphView|"
 msgid "Min. Node Cost"
 msgstr "最小節點花費"
 
-#: libviews/callgraphview.cpp:2854
+#: libviews/callgraphview.cpp:2881
 msgctxt "CallGraphView|"
 msgid "No Minimum"
 msgstr "無最小值"
 
-#: libviews/callgraphview.cpp:2860
+#: libviews/callgraphview.cpp:2887
 msgctxt "CallGraphView|"
 msgid "50 %"
 msgstr "50 %"
 
-#: libviews/callgraphview.cpp:2861
+#: libviews/callgraphview.cpp:2888
 msgctxt "CallGraphView|"
 msgid "20 %"
 msgstr "20 %"
 
-#: libviews/callgraphview.cpp:2862
+#: libviews/callgraphview.cpp:2889
 msgctxt "CallGraphView|"
 msgid "10 %"
 msgstr "10 %"
 
-#: libviews/callgraphview.cpp:2863
+#: libviews/callgraphview.cpp:2890
 msgctxt "CallGraphView|"
 msgid "5 %"
 msgstr "5 %"
 
-#: libviews/callgraphview.cpp:2864
+#: libviews/callgraphview.cpp:2891
 msgctxt "CallGraphView|"
 msgid "2 %"
 msgstr "2 %"
 
-#: libviews/callgraphview.cpp:2865
+#: libviews/callgraphview.cpp:2892
 msgctxt "CallGraphView|"
 msgid "1 %"
 msgstr "1 %"
 
-#: libviews/callgraphview.cpp:2895
+#: libviews/callgraphview.cpp:2922
 msgctxt "CallGraphView|"
 msgid "Min. Call Cost"
 msgstr "最小呼叫花費"
 
-#: libviews/callgraphview.cpp:2896
+#: libviews/callgraphview.cpp:2923
 msgctxt "CallGraphView|"
 msgid "Same as Node"
 msgstr "與節點相同"
 
-#: libviews/callgraphview.cpp:2898
+#: libviews/callgraphview.cpp:2925
 msgctxt "CallGraphView|"
 msgid "50 % of Node"
 msgstr "50% 的節點"
 
-#: libviews/callgraphview.cpp:2900
+#: libviews/callgraphview.cpp:2927
 msgctxt "CallGraphView|"
 msgid "20 % of Node"
 msgstr "20% 的節點"
 
-#: libviews/callgraphview.cpp:2902
+#: libviews/callgraphview.cpp:2929
 msgctxt "CallGraphView|"
 msgid "10 % of Node"
 msgstr "10% 的節點"
 
-#: libviews/callgraphview.cpp:2931
+#: libviews/callgraphview.cpp:2958
 msgctxt "CallGraphView|"
 msgid "Birds-eye View"
 msgstr "鳥瞰檢視"
 
-#: libviews/callgraphview.cpp:2932
+#: libviews/callgraphview.cpp:2959
 msgctxt "CallGraphView|"
 msgid "Top Left"
 msgstr "左上方"
 
-#: libviews/callgraphview.cpp:2933
+#: libviews/callgraphview.cpp:2960
 msgctxt "CallGraphView|"
 msgid "Top Right"
 msgstr "右上方"
 
-#: libviews/callgraphview.cpp:2934
+#: libviews/callgraphview.cpp:2961
 msgctxt "CallGraphView|"
 msgid "Bottom Left"
 msgstr "左下方"
 
-#: libviews/callgraphview.cpp:2935
+#: libviews/callgraphview.cpp:2962
 msgctxt "CallGraphView|"
 msgid "Bottom Right"
 msgstr "右下方"
 
-#: libviews/callgraphview.cpp:2936
+#: libviews/callgraphview.cpp:2963
 msgctxt "CallGraphView|"
 msgid "Automatic"
 msgstr "自動"
 
-#: libviews/callgraphview.cpp:2937
+#: libviews/callgraphview.cpp:2964
 msgctxt "CallGraphView|"
 msgid "Hide"
 msgstr "隱藏"
 
-#: libviews/callgraphview.cpp:2967
+#: libviews/callgraphview.cpp:2994
 msgctxt "CallGraphView|"
 msgid "Layout"
 msgstr "編排"
 
-#: libviews/callgraphview.cpp:2968
+#: libviews/callgraphview.cpp:2995
 msgctxt "CallGraphView|"
 msgid "Top to Down"
 msgstr "上到下"
 
-#: libviews/callgraphview.cpp:2969
+#: libviews/callgraphview.cpp:2996
 msgctxt "CallGraphView|"
 msgid "Left to Right"
 msgstr "左到右"
 
-#: libviews/callgraphview.cpp:2970
+#: libviews/callgraphview.cpp:2997
 msgctxt "CallGraphView|"
 msgid "Circular"
 msgstr "圓形"
 
-#: libviews/callgraphview.cpp:3010 libviews/callgraphview.cpp:3015
-#: libviews/callgraphview.cpp:3035
+#: libviews/callgraphview.cpp:3037 libviews/callgraphview.cpp:3042
+#: libviews/callgraphview.cpp:3062
 #, qt-format
 msgctxt "CallGraphView|"
 msgid "Go to '%1'"
 msgstr "跳到 %1"
 
-#: libviews/callgraphview.cpp:3046
+#: libviews/callgraphview.cpp:3073
 msgctxt "CallGraphView|"
 msgid "Stop Layouting"
 msgstr "停止佈局"
 
-#: libviews/callgraphview.cpp:3053
+#: libviews/callgraphview.cpp:3080
 msgctxt "CallGraphView|"
 msgid "Export Graph"
 msgstr "匯出圖形"
 
-#: libviews/callgraphview.cpp:3054
+#: libviews/callgraphview.cpp:3081
 msgctxt "CallGraphView|"
 msgid "As DOT file..."
 msgstr "為 DOT 檔..."
 
-#: libviews/callgraphview.cpp:3055
+#: libviews/callgraphview.cpp:3082
 msgctxt "CallGraphView|"
 msgid "As Image..."
 msgstr "為影像檔..."
 
-#: libviews/callgraphview.cpp:3058
+#: libviews/callgraphview.cpp:3085
 msgctxt "CallGraphView|"
 msgid "Graph"
 msgstr "圖形"
 
-#: libviews/callgraphview.cpp:3066
+#: libviews/callgraphview.cpp:3093
 msgctxt "CallGraphView|"
 msgid "Arrows for Skipped Calls"
 msgstr "被略過呼叫的箭頭"
 
-#: libviews/callgraphview.cpp:3071
+#: libviews/callgraphview.cpp:3098
 msgctxt "CallGraphView|"
 msgid "Inner-cycle Calls"
 msgstr "內部循環呼叫"
 
 #
-#: libviews/callgraphview.cpp:3076
+#: libviews/callgraphview.cpp:3103
 msgctxt "CallGraphView|"
 msgid "Cluster Groups"
 msgstr "叢集群組"
 
 #
-#: libviews/callgraphview.cpp:3080
+#: libviews/callgraphview.cpp:3107
 msgctxt "CallGraphView|"
 msgid "Visualization"
 msgstr "視覺化"
 
 #
-#: libviews/callgraphview.cpp:3081
+#: libviews/callgraphview.cpp:3108
 msgctxt "CallGraphView|"
 msgid "Compact"
 msgstr "簡潔"
 
 #
-#: libviews/callgraphview.cpp:3084
+#: libviews/callgraphview.cpp:3111
 msgctxt "CallGraphView|"
 msgid "Normal"
 msgstr "一般"
 
 #
-#: libviews/callgraphview.cpp:3087
+#: libviews/callgraphview.cpp:3114
 msgctxt "CallGraphView|"
 msgid "Tall"
 msgstr "高"
 
 #
-#: libviews/callgraphview.cpp:3119
+#: libviews/callgraphview.cpp:3146
 msgctxt "CallGraphView|"
 msgid "Export Graph As Image"
 msgstr "將圖形匯出為影像"
 
 #
-#: libviews/callgraphview.cpp:3121
+#: libviews/callgraphview.cpp:3148
 msgctxt "CallGraphView|"
 msgid "Images (*.png *.jpg)"
 msgstr "影像（*.png *.jpg）"
@@ -748,28 +749,27 @@ msgstr ""
 "形表示一個函式，大小會與該函式執行時的花費成比例。（不過畫圖形時會有所限制，"
 "所以是盡量成比例）。</p>"
 
-#
 #: libviews/callmapview.cpp:106
 msgctxt "CallMapView|"
 msgid ""
-"<p>Appearance options can be found in the in the context menu. To get exact "
-"size proportions, choose 'Hide incorrect borders'. As this mode can be "
-"<em>very</em> time consuming, you may want to limit the maximum drawn "
-"nesting level before. 'Best' determinates the split direction for children "
-"from the aspect ratio of the parent. 'Always Best' decides on remaining "
-"space for each sibling. 'Ignore Proportions' takes space for function name "
-"drawing <em>before</em> drawing children. Note that size proportions can get "
+"<p>Appearance options can be found in the context menu. To get exact size "
+"proportions, choose 'Hide incorrect borders'. As this mode can be <em>very</"
+"em> time consuming, you may want to limit the maximum drawn nesting level "
+"before. 'Best' determinates the split direction for children from the aspect "
+"ratio of the parent. 'Always Best' decides on remaining space for each "
+"sibling. 'Ignore Proportions' takes space for function name drawing "
+"<em>before</em> drawing children. Note that size proportions can get "
 "<em>heavily</em> wrong.</p><p>This is a <em>TreeMap</em> widget. Keyboard "
 "navigation is available with the left/right arrow keys for traversing "
 "siblings, and up/down arrow keys to go a nesting level up/down. <em>Return</"
 "em> activates the current item.</p>"
 msgstr ""
-"<p>外觀選項可以在選單中找到。要取得精準的大小比例，選擇「隱藏不正確的框線」。"
-"這個模式可能會<em>非常</em>花時間，您可能要先限制一下最多的巢狀等級。「最佳」"
-"會依父函式的比例來分離子函式的方向。「總是最佳」會依剩餘空間來決定。「忽略比"
-"例」會在畫子函式前先保留函式名稱空間。注意大小的比例有可能會錯得很離譜。</p> "
-"<p>有一種「樹狀地圖」元件。可以用鍵盤左右鍵來導覽所有的子節點，上下鍵則可以進"
-"出巢狀等級。Enter 鍵會啟動目前的項目。</p>"
+"<p>外觀選項可以在內文選單中找到。要取得精準的大小比例，選擇「隱藏不正確的框"
+"線」。這個模式可能會<em>非常</em>花時間，您可能要先限制一下最多的巢狀等級。"
+"「最佳」會依父函式的比例來分離子函式的方向。「總是最佳」會依剩餘空間來決定。"
+"「忽略比例」會在畫子函式前先保留函式名稱空間。注意大小的比例有可能會錯得很離"
+"譜。</p> <p>有一種「樹狀地圖」元件。可以用鍵盤左右鍵來導覽所有的子節點，上下"
+"鍵則可以進出巢狀等級。Enter 鍵會啟動目前的項目。</p>"
 
 #
 #: libviews/callmapview.cpp:139

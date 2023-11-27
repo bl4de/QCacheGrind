@@ -1,14 +1,14 @@
 # Translation for kcachegrind_qt.po to Euskara/Basque (eu).
 # Copyright (C) 2023 This file is copyright:
 # This file is distributed under the same license as the original file.
-# KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>.
+# SPDX-FileCopyrightText: 2023 KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>
 #
 # Translators:
 # SPDX-FileCopyrightText: 2023 Iñigo Salvador Azurmendi <xalba@ni.eus>
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2023-10-27 23:12+0200\n"
+"PO-Revision-Date: 2023-11-06 22:16+0100\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 23.08.2\n"
 
 #: libcore/cachegrindloader.cpp:135
@@ -69,32 +69,32 @@ msgstr "Jauzi"
 #: libcore/context.cpp:68
 msgctxt "ProfileContext|"
 msgid "Part Instruction"
-msgstr "Jarraibide atala"
+msgstr "Agindu atala"
 
 #: libcore/context.cpp:69
 msgctxt "ProfileContext|"
 msgid "Instruction"
-msgstr "Jarraibidea"
+msgstr "Agindua"
 
 #: libcore/context.cpp:70
 msgctxt "ProfileContext|"
 msgid "Part Instruction Jump"
-msgstr "Jarraibide jauzi atala"
+msgstr "Agindu jauzi atala"
 
 #: libcore/context.cpp:71
 msgctxt "ProfileContext|"
 msgid "Instruction Jump"
-msgstr "Jarraibide jauzia"
+msgstr "Agindu jauzia"
 
 #: libcore/context.cpp:72
 msgctxt "ProfileContext|"
 msgid "Part Instruction Call"
-msgstr "Jarraibide deia atala"
+msgstr "Agindu deia atala"
 
 #: libcore/context.cpp:73
 msgctxt "ProfileContext|"
 msgid "Instruction Call"
-msgstr "Jarraibide deia"
+msgstr "Agindu deia"
 
 #: libcore/context.cpp:74
 msgctxt "ProfileContext|"
@@ -167,10 +167,10 @@ msgid "Program Trace"
 msgstr "Programaren aztarna"
 
 #: libcore/costitem.cpp:48
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "QObject|"
 msgid "%1 from %2"
-msgstr "Nork"
+msgstr "%1 %2(e)tik"
 
 #: libcore/costitem.cpp:54 libcore/costitem.cpp:59 libcore/tracedata.cpp:1978
 #: libcore/tracedata.cpp:2040 libcore/tracedata.cpp:2860
@@ -182,87 +182,87 @@ msgstr "(ezezaguna)"
 #: libcore/globalconfig.cpp:77
 msgctxt "QObject|"
 msgid "Instruction Fetch"
-msgstr ""
+msgstr "Agindu eskuratzea"
 
 #: libcore/globalconfig.cpp:78
 msgctxt "QObject|"
 msgid "Data Read Access"
-msgstr ""
+msgstr "Datuak irakurtzeko sarbidea"
 
 #: libcore/globalconfig.cpp:79
 msgctxt "QObject|"
 msgid "Data Write Access"
-msgstr ""
+msgstr "Datuak idazteko sarbidea"
 
 #: libcore/globalconfig.cpp:80
 msgctxt "QObject|"
 msgid "L1 Instr. Fetch Miss"
-msgstr ""
+msgstr "L1 Jarraib. eskuratze hutsegitea"
 
 #: libcore/globalconfig.cpp:81
 msgctxt "QObject|"
 msgid "L1 Data Read Miss"
-msgstr ""
+msgstr "L1 datuak irakurtzeko hutsegitea"
 
 #: libcore/globalconfig.cpp:82
 msgctxt "QObject|"
 msgid "L1 Data Write Miss"
-msgstr ""
+msgstr "L1 datuak idazteko hutsegitea"
 
 #: libcore/globalconfig.cpp:83
 msgctxt "QObject|"
 msgid "L2 Instr. Fetch Miss"
-msgstr ""
+msgstr "L2 Jarraib. eskuratze hutsegitea"
 
 #: libcore/globalconfig.cpp:84
 msgctxt "QObject|"
 msgid "L2 Data Read Miss"
-msgstr ""
+msgstr "L2 datuak irakurtzeko hutsegitea"
 
 #: libcore/globalconfig.cpp:85
 msgctxt "QObject|"
 msgid "L2 Data Write Miss"
-msgstr ""
+msgstr "L2 datuak idazteko hutsegitea"
 
 #: libcore/globalconfig.cpp:86
 msgctxt "QObject|"
 msgid "LL Instr. Fetch Miss"
-msgstr ""
+msgstr "LL Jarraib. eskuratze hutsegitea"
 
 #: libcore/globalconfig.cpp:87
 msgctxt "QObject|"
 msgid "LL Data Read Miss"
-msgstr ""
+msgstr "LL datuak irakurtzeko hutsegitea"
 
 #: libcore/globalconfig.cpp:88
 msgctxt "QObject|"
 msgid "LL Data Write Miss"
-msgstr ""
+msgstr "LL datuak idazteko hutsegitea"
 
 #: libcore/globalconfig.cpp:89
 msgctxt "QObject|"
 msgid "L1 Miss Sum"
-msgstr ""
+msgstr "L1 hutsegite batura"
 
 #: libcore/globalconfig.cpp:90
 msgctxt "QObject|"
 msgid "L2 Miss Sum"
-msgstr ""
+msgstr "L2 hutsegite batura"
 
 #: libcore/globalconfig.cpp:91
 msgctxt "QObject|"
 msgid "Last-level Miss Sum"
-msgstr ""
+msgstr "Azken mailako (LL) hutsegite batura"
 
 #: libcore/globalconfig.cpp:92
 msgctxt "QObject|"
 msgid "Indirect Branch"
-msgstr ""
+msgstr "Zeharkako adarra"
 
 #: libcore/globalconfig.cpp:93
 msgctxt "QObject|"
 msgid "Mispredicted Ind. Branch"
-msgstr ""
+msgstr "Gaizki aurreikusitako zeharkako adarra"
 
 #: libcore/globalconfig.cpp:94
 msgctxt "QObject|"
@@ -272,17 +272,17 @@ msgstr "Baldintzapeko adarra"
 #: libcore/globalconfig.cpp:95
 msgctxt "QObject|"
 msgid "Mispredicted Cond. Branch"
-msgstr ""
+msgstr "Gaizki aurreikusitako baldintzapeko adarra"
 
 #: libcore/globalconfig.cpp:96
 msgctxt "QObject|"
 msgid "Mispredicted Branch"
-msgstr ""
+msgstr "Gaizki aurreikusitako adarra"
 
 #: libcore/globalconfig.cpp:97
 msgctxt "QObject|"
 msgid "Global Bus Event"
-msgstr ""
+msgstr "Bus globaleko gertaera"
 
 #: libcore/globalconfig.cpp:98
 msgctxt "QObject|"
@@ -302,7 +302,7 @@ msgstr "Erabiltzailearen ordua"
 #: libcore/globalconfig.cpp:101
 msgctxt "QObject|"
 msgid "Cycle Estimation"
-msgstr ""
+msgstr "Zikloaren zenbatespena"
 
 #: libcore/tracedata.cpp:1240
 msgctxt "QObject|"
@@ -313,7 +313,7 @@ msgstr "(dei egilerik ez)"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 via %2"
-msgstr ""
+msgstr "%1 %2(r)(e)n bidez"
 
 #: libcore/tracedata.cpp:1256
 msgctxt "QObject|"
@@ -339,13 +339,13 @@ msgstr "Funtzio-zikloak birkalkulatzen..."
 #, qt-format
 msgctxt "QObject|"
 msgid "Call(s) from %1"
-msgstr ""
+msgstr "%1(e)tiko deia(k)"
 
 #: libviews/callgraphview.cpp:417
 #, qt-format
 msgctxt "QObject|"
 msgid "Call(s) to %1"
-msgstr ""
+msgstr "%1(e)ri deiak"
 
 #: libviews/callgraphview.cpp:419
 msgctxt "QObject|"
@@ -372,6 +372,18 @@ msgid ""
 "There are similar visualization options to the Call Treemap; the selected "
 "function is highlighted.</p>"
 msgstr ""
+"<b>Funtzio aktiboaren inguruko deien grafikoa</b><p>Konfigurazioaren "
+"arabera, ikuspegi horrek funtzio aktiboaren dei-grafikoaren ingurunea "
+"erakusten du. Oharra: Erakutsitako kostua, <b>bakarrik</b> , funtzio aktiboa "
+"benetan ibiltzen ari den bitartean gastatutakoa da: hots, «main()»erako "
+"erakutsitako kostua - ikusgai badago - funtzio aktiboarenaren berdina izan "
+"beharko litzateke, hori baita funtzio aktiboa ibiltzen ari zenean main() "
+"funtzioaren kostu inklusiboaren zatia.</p> <p>Zikloetan, deiaren gezi "
+"urdinak adierazten du zuzen marrazteko gehitu den,  inoiz gertatu ez den, "
+"dei artifizial bat dela.</p><p>Grafikoa trepetaren eremua baino handiagoa "
+"bada, ertz batean ikuspegi-orokorreko panoramika bat erakutsiko da. Dei "
+"zuhaitz-maparen irudikatze aukera antzekoak daude; hautatutako funtzioa "
+"nabarmendu egiten da.</p>"
 
 #: libviews/callgraphview.cpp:2020
 msgctxt "CallGraphView|"
@@ -379,22 +391,25 @@ msgid ""
 "Warning: a long lasting graph layouting is in progress.\n"
 "Reduce node/edge limits for speedup.\n"
 msgstr ""
+"Abisua: grafiko bat trazatzea luzerako martxan dago.\n"
+"Murriztu nodo/ertz mugak azkartzeko.\n"
 
 #: libviews/callgraphview.cpp:2023
 msgctxt "CallGraphView|"
 msgid "Layouting stopped.\n"
-msgstr ""
+msgstr "Trazatzea geldituta.\n"
 
 #: libviews/callgraphview.cpp:2025
 #, qt-format
 msgctxt "CallGraphView|"
 msgid "The call graph has %1 nodes and %2 edges.\n"
-msgstr ""
+msgstr "Dei-grafikoak %1 nodo eta %2 ertz ditu.\n"
 
 #: libviews/callgraphview.cpp:2034
 msgctxt "CallGraphView|"
 msgid "No graph available because the layouting process failed.\n"
 msgstr ""
+"Ez dago grafikorik erabilgarri trazatzeko prozesuak huts egin duelako.\n"
 
 #: libviews/callgraphview.cpp:2036
 #, qt-format
@@ -403,26 +418,28 @@ msgid ""
 "Trying to run the following command did not work:\n"
 "'%1'\n"
 msgstr ""
+"Ondoko komandoa exekutatzen saiatzea huts egin du:\n"
+"'%1'\n"
 
 #: libviews/callgraphview.cpp:2038 libviews/callgraphview.cpp:2555
 msgctxt "CallGraphView|"
 msgid "Please check that 'dot' is installed (package GraphViz)."
-msgstr ""
+msgstr "Mesedez, egiaztatu 'dot' instalatuta dagoela («GraphViz» paketea)."
 
 #: libviews/callgraphview.cpp:2080
 msgctxt "CallGraphView|"
 msgid "No item activated for which to draw the call graph."
-msgstr ""
+msgstr "Dei-grafikoa marrazteko aktibatutako elementurik ez dago."
 
 #: libviews/callgraphview.cpp:2092
 msgctxt "CallGraphView|"
 msgid "No call graph can be drawn for the active item."
-msgstr ""
+msgstr "Ezin da elementu aktiborako dei-grafikorik marraztu."
 
 #: libviews/callgraphview.cpp:2554
 msgctxt "CallGraphView|"
 msgid "Error running the graph layouting tool.\n"
-msgstr ""
+msgstr "Grafikoa trazatzeko tresna ibiltzeko errorea.\n"
 
 #: libviews/callgraphview.cpp:2559
 #, qt-format
@@ -432,245 +449,248 @@ msgid ""
 "\t'%1'\n"
 "because it has no cost of the selected event type."
 msgstr ""
+"Ez dago dei-grafiko erabilgarririk ondoko funtziorako\n"
+"\t'%1'\n"
+"ez duelako hautatutako gertaera motako kosturik."
 
-#: libviews/callgraphview.cpp:2773
+#: libviews/callgraphview.cpp:2800
 msgctxt "CallGraphView|"
 msgid "Caller Depth"
 msgstr "Dei egilearen sakonera"
 
-#: libviews/callgraphview.cpp:2774 libviews/callgraphview.cpp:2814
+#: libviews/callgraphview.cpp:2801 libviews/callgraphview.cpp:2841
 msgctxt "CallGraphView|"
 msgid "Unlimited"
 msgstr "Mugagabea"
 
-#: libviews/callgraphview.cpp:2777 libviews/callgraphview.cpp:2817
+#: libviews/callgraphview.cpp:2804 libviews/callgraphview.cpp:2844
 msgctxt "CallGraphView|None"
 msgid "Depth 0"
 msgstr "Sakonera 0"
 
-#: libviews/callgraphview.cpp:2778 libviews/callgraphview.cpp:2818
+#: libviews/callgraphview.cpp:2805 libviews/callgraphview.cpp:2845
 msgctxt "CallGraphView|"
 msgid "max. 1"
 msgstr "max. 1"
 
-#: libviews/callgraphview.cpp:2779 libviews/callgraphview.cpp:2819
+#: libviews/callgraphview.cpp:2806 libviews/callgraphview.cpp:2846
 msgctxt "CallGraphView|"
 msgid "max. 2"
 msgstr "max. 2"
 
-#: libviews/callgraphview.cpp:2780 libviews/callgraphview.cpp:2820
+#: libviews/callgraphview.cpp:2807 libviews/callgraphview.cpp:2847
 msgctxt "CallGraphView|"
 msgid "max. 5"
 msgstr "max. 5"
 
-#: libviews/callgraphview.cpp:2781 libviews/callgraphview.cpp:2821
+#: libviews/callgraphview.cpp:2808 libviews/callgraphview.cpp:2848
 msgctxt "CallGraphView|"
 msgid "max. 10"
 msgstr "max. 10"
 
-#: libviews/callgraphview.cpp:2782 libviews/callgraphview.cpp:2822
+#: libviews/callgraphview.cpp:2809 libviews/callgraphview.cpp:2849
 msgctxt "CallGraphView|"
 msgid "max. 15"
 msgstr "max. 15"
 
-#: libviews/callgraphview.cpp:2813
+#: libviews/callgraphview.cpp:2840
 msgctxt "CallGraphView|"
 msgid "Callee Depth"
 msgstr "Deituaren sakonera"
 
-#: libviews/callgraphview.cpp:2853
+#: libviews/callgraphview.cpp:2880
 msgctxt "CallGraphView|"
 msgid "Min. Node Cost"
-msgstr ""
+msgstr "Nodoaren kostu min."
 
-#: libviews/callgraphview.cpp:2854
+#: libviews/callgraphview.cpp:2881
 msgctxt "CallGraphView|"
 msgid "No Minimum"
 msgstr "Minimorik ez"
 
-#: libviews/callgraphview.cpp:2860
+#: libviews/callgraphview.cpp:2887
 msgctxt "CallGraphView|"
 msgid "50 %"
 msgstr "% 50"
 
-#: libviews/callgraphview.cpp:2861
+#: libviews/callgraphview.cpp:2888
 msgctxt "CallGraphView|"
 msgid "20 %"
 msgstr "% 20"
 
-#: libviews/callgraphview.cpp:2862
+#: libviews/callgraphview.cpp:2889
 msgctxt "CallGraphView|"
 msgid "10 %"
 msgstr "% 10"
 
-#: libviews/callgraphview.cpp:2863
+#: libviews/callgraphview.cpp:2890
 msgctxt "CallGraphView|"
 msgid "5 %"
 msgstr "% 5"
 
-#: libviews/callgraphview.cpp:2864
+#: libviews/callgraphview.cpp:2891
 msgctxt "CallGraphView|"
 msgid "2 %"
 msgstr "% 2"
 
-#: libviews/callgraphview.cpp:2865
+#: libviews/callgraphview.cpp:2892
 msgctxt "CallGraphView|"
 msgid "1 %"
 msgstr "% 1"
 
-#: libviews/callgraphview.cpp:2895
+#: libviews/callgraphview.cpp:2922
 msgctxt "CallGraphView|"
 msgid "Min. Call Cost"
 msgstr "Deiaren kostu min."
 
-#: libviews/callgraphview.cpp:2896
+#: libviews/callgraphview.cpp:2923
 msgctxt "CallGraphView|"
 msgid "Same as Node"
 msgstr "Nodoaren berdina"
 
-#: libviews/callgraphview.cpp:2898
+#: libviews/callgraphview.cpp:2925
 msgctxt "CallGraphView|"
 msgid "50 % of Node"
 msgstr "Nodoaren % 50"
 
-#: libviews/callgraphview.cpp:2900
+#: libviews/callgraphview.cpp:2927
 msgctxt "CallGraphView|"
 msgid "20 % of Node"
 msgstr "Nodoaren % 20"
 
-#: libviews/callgraphview.cpp:2902
+#: libviews/callgraphview.cpp:2929
 msgctxt "CallGraphView|"
 msgid "10 % of Node"
 msgstr "Nodoaren % 10"
 
-#: libviews/callgraphview.cpp:2931
+#: libviews/callgraphview.cpp:2958
 msgctxt "CallGraphView|"
 msgid "Birds-eye View"
-msgstr ""
+msgstr "Txori-begi ikuspegia"
 
-#: libviews/callgraphview.cpp:2932
+#: libviews/callgraphview.cpp:2959
 msgctxt "CallGraphView|"
 msgid "Top Left"
 msgstr "Goian ezkerrean"
 
-#: libviews/callgraphview.cpp:2933
+#: libviews/callgraphview.cpp:2960
 msgctxt "CallGraphView|"
 msgid "Top Right"
 msgstr "Goian eskuinean"
 
-#: libviews/callgraphview.cpp:2934
+#: libviews/callgraphview.cpp:2961
 msgctxt "CallGraphView|"
 msgid "Bottom Left"
 msgstr "Behean ezkerrean"
 
-#: libviews/callgraphview.cpp:2935
+#: libviews/callgraphview.cpp:2962
 msgctxt "CallGraphView|"
 msgid "Bottom Right"
 msgstr "Behean eskuinean"
 
-#: libviews/callgraphview.cpp:2936
+#: libviews/callgraphview.cpp:2963
 msgctxt "CallGraphView|"
 msgid "Automatic"
 msgstr "Automatikoa"
 
-#: libviews/callgraphview.cpp:2937
+#: libviews/callgraphview.cpp:2964
 msgctxt "CallGraphView|"
 msgid "Hide"
 msgstr "Ezkutatu"
 
-#: libviews/callgraphview.cpp:2967
+#: libviews/callgraphview.cpp:2994
 msgctxt "CallGraphView|"
 msgid "Layout"
 msgstr "Antolaera"
 
-#: libviews/callgraphview.cpp:2968
+#: libviews/callgraphview.cpp:2995
 msgctxt "CallGraphView|"
 msgid "Top to Down"
 msgstr "Goitik behera"
 
-#: libviews/callgraphview.cpp:2969
+#: libviews/callgraphview.cpp:2996
 msgctxt "CallGraphView|"
 msgid "Left to Right"
 msgstr "Ezkerretik eskuinera"
 
-#: libviews/callgraphview.cpp:2970
+#: libviews/callgraphview.cpp:2997
 msgctxt "CallGraphView|"
 msgid "Circular"
 msgstr "Zirkularra"
 
-#: libviews/callgraphview.cpp:3010 libviews/callgraphview.cpp:3015
-#: libviews/callgraphview.cpp:3035
+#: libviews/callgraphview.cpp:3037 libviews/callgraphview.cpp:3042
+#: libviews/callgraphview.cpp:3062
 #, qt-format
 msgctxt "CallGraphView|"
 msgid "Go to '%1'"
 msgstr "Joan '%1'(e)ra"
 
-#: libviews/callgraphview.cpp:3046
+#: libviews/callgraphview.cpp:3073
 msgctxt "CallGraphView|"
 msgid "Stop Layouting"
-msgstr ""
+msgstr "Gelditu trazatzea"
 
-#: libviews/callgraphview.cpp:3053
+#: libviews/callgraphview.cpp:3080
 msgctxt "CallGraphView|"
 msgid "Export Graph"
 msgstr "Esportatu grafikoa"
 
-#: libviews/callgraphview.cpp:3054
+#: libviews/callgraphview.cpp:3081
 msgctxt "CallGraphView|"
 msgid "As DOT file..."
 msgstr "DOT fitxategi gisa..."
 
-#: libviews/callgraphview.cpp:3055
+#: libviews/callgraphview.cpp:3082
 msgctxt "CallGraphView|"
 msgid "As Image..."
 msgstr "Irudi gisa..."
 
-#: libviews/callgraphview.cpp:3058
+#: libviews/callgraphview.cpp:3085
 msgctxt "CallGraphView|"
 msgid "Graph"
 msgstr "Grafikoa"
 
-#: libviews/callgraphview.cpp:3066
+#: libviews/callgraphview.cpp:3093
 msgctxt "CallGraphView|"
 msgid "Arrows for Skipped Calls"
-msgstr ""
+msgstr "Saihestutako deietarako geziak"
 
-#: libviews/callgraphview.cpp:3071
+#: libviews/callgraphview.cpp:3098
 msgctxt "CallGraphView|"
 msgid "Inner-cycle Calls"
-msgstr ""
+msgstr "Barne-ziklorako deiak"
 
-#: libviews/callgraphview.cpp:3076
+#: libviews/callgraphview.cpp:3103
 msgctxt "CallGraphView|"
 msgid "Cluster Groups"
-msgstr ""
+msgstr "Talde multzoak"
 
-#: libviews/callgraphview.cpp:3080
+#: libviews/callgraphview.cpp:3107
 msgctxt "CallGraphView|"
 msgid "Visualization"
 msgstr "Irudikapena"
 
-#: libviews/callgraphview.cpp:3081
+#: libviews/callgraphview.cpp:3108
 msgctxt "CallGraphView|"
 msgid "Compact"
 msgstr "Trinkoa"
 
-#: libviews/callgraphview.cpp:3084
+#: libviews/callgraphview.cpp:3111
 msgctxt "CallGraphView|"
 msgid "Normal"
 msgstr "Arrunta"
 
-#: libviews/callgraphview.cpp:3087
+#: libviews/callgraphview.cpp:3114
 msgctxt "CallGraphView|"
 msgid "Tall"
-msgstr ""
+msgstr "Altua"
 
-#: libviews/callgraphview.cpp:3119
+#: libviews/callgraphview.cpp:3146
 msgctxt "CallGraphView|"
 msgid "Export Graph As Image"
 msgstr "Esportatu grafikoa irudi gisa"
 
-#: libviews/callgraphview.cpp:3121
+#: libviews/callgraphview.cpp:3148
 msgctxt "CallGraphView|"
 msgid "Images (*.png *.jpg)"
 msgstr "Irudiak (*.png *.jpg)"
@@ -708,6 +728,11 @@ msgid ""
 "function; its size tries to be proportional to the cost spent therein while "
 "the active function is running (however, there are drawing constraints).</p>"
 msgstr ""
+"<b>Deitzale mapa</b><p>Grafiko horrek unean aktibatutako funtzioaren "
+"deitzaile guztien hierarkia habiaratua erakusten du. Koloreztatutako "
+"laukizuzen bakoitzak funtzio bat ordezkatzen du; bere neurria, funtzioa "
+"aktiboa ibiltzen den bitartean gastatutako kostuarekiko proportzionala "
+"izaten saiatzen da (dena den, marrazteko murrizketak daude).</p>"
 
 #: libviews/callmapview.cpp:98
 msgctxt "CallMapView|"
@@ -717,22 +742,39 @@ msgid ""
 "function; its size tries to be proportional to the cost spent therein while "
 "the active function is running (however, there are drawing constraints).</p>"
 msgstr ""
+"<b>Dei mapa</b><p>Grafiko horrek unean aktibatutako funtzioaren deiajaso "
+"duten guztien hierarkia habiaratua erakusten du. Koloreztatutako laukizuzen "
+"bakoitzak funtzio bat ordezkatzen du; bere neurria, funtzioa aktiboa "
+"ibiltzen den bitartean gastatutako kostuarekiko proportzionala izaten "
+"saiatzen da (dena den, marrazteko murrizketak daude).</p>"
 
 #: libviews/callmapview.cpp:106
 msgctxt "CallMapView|"
 msgid ""
-"<p>Appearance options can be found in the in the context menu. To get exact "
-"size proportions, choose 'Hide incorrect borders'. As this mode can be "
-"<em>very</em> time consuming, you may want to limit the maximum drawn "
-"nesting level before. 'Best' determinates the split direction for children "
-"from the aspect ratio of the parent. 'Always Best' decides on remaining "
-"space for each sibling. 'Ignore Proportions' takes space for function name "
-"drawing <em>before</em> drawing children. Note that size proportions can get "
+"<p>Appearance options can be found in the context menu. To get exact size "
+"proportions, choose 'Hide incorrect borders'. As this mode can be <em>very</"
+"em> time consuming, you may want to limit the maximum drawn nesting level "
+"before. 'Best' determinates the split direction for children from the aspect "
+"ratio of the parent. 'Always Best' decides on remaining space for each "
+"sibling. 'Ignore Proportions' takes space for function name drawing "
+"<em>before</em> drawing children. Note that size proportions can get "
 "<em>heavily</em> wrong.</p><p>This is a <em>TreeMap</em> widget. Keyboard "
 "navigation is available with the left/right arrow keys for traversing "
 "siblings, and up/down arrow keys to go a nesting level up/down. <em>Return</"
 "em> activates the current item.</p>"
 msgstr ""
+"<p>Itxura-aukerak testuinguru menuan aurki daitezke. Neurri zehatzaren "
+"proportzioak lortzeko, aukeratu 'Ezkutatu ertz akastunak'. Modu horrek "
+"denbora <em>asko</em> behar duenez, baliteke marraztutako gehienezko "
+"habiaratze maila aurrez mugatu nahi izatea. 'Onena'k, gurasoaren itxura-"
+"erlaziotik umearen zatitze noranzkoa zehazten du. 'Beti onena'k, haurride "
+"bakoitzerako gainerako espazioa erabakitzen du. 'Proportzioak ezikusi'k, "
+"umeak marraztu <em>aurretik</em>, funtzioaren izena marrazteko lekua hartzen "
+"du. Kontuan izan neurri-proportzioak <em>oso</em> oker egon daitezkeela.</"
+"p><p> Hori <em>Zuhaitz-mapa</em> trepeta bat da. Teklatu bidez nabiga "
+"daiteke, ezker/eskuin gezi-teklak haurrideak zeharkatzeko, eta gora/behera "
+"gezi-teklak habiaratze maila bat gora/behera joateko. <em>Itzuli</em>k uneko "
+"elementua aktibatzen du.</p>"
 
 #: libviews/callmapview.cpp:139
 msgctxt "CallMapView|"
@@ -785,7 +827,7 @@ msgstr "Handiagotu sakonera (%1(e)ra)"
 #: libviews/callmapview.cpp:213
 msgctxt "CallMapView|"
 msgid "Stop at Function"
-msgstr ""
+msgstr "Gelditu funtzioan"
 
 #: libviews/callmapview.cpp:214
 msgctxt "CallMapView|"
@@ -848,12 +890,12 @@ msgstr "Irudikapena"
 #: libviews/callmapview.cpp:328
 msgctxt "CallMapView|"
 msgid "Split Direction"
-msgstr ""
+msgstr "Zatitu noranzkoa"
 
 #: libviews/callmapview.cpp:331
 msgctxt "CallMapView|"
 msgid "Skip Incorrect Borders"
-msgstr ""
+msgstr "Saihestu okerreko mugak"
 
 #: libviews/callmapview.cpp:336
 msgctxt "CallMapView|"
@@ -978,6 +1020,15 @@ msgid ""
 "information panel. If there are two panels (Split mode), the function of the "
 "other panel is changed instead.</p>"
 msgstr ""
+"<b>Zuzeneko deitzaileen zerrenda</b><p>Zerrenda horrek, unean hautatutako "
+"funtzioari zuzenean deitzen dioten funtzio guztiak erakusten ditu, dei "
+"kopuruarekin eta unean hautatutako funtzioan zerrendako funtziotik deia "
+"jasotzean gastatutako kostuarekin batera.</p><p>Kostu inklusibo baten ordez "
+"ikono bat egoteak zehazten du hori ziklo errekurtsibo baten barruko dei bat "
+"dela. Kostu inklusibo batek hemen ez du zentzurik.</p><p>Funtzio bat "
+"hautatzean, informazio panel horretako uneko hautua egiten du. Bi panel "
+"baldin badaude (modu zatitua), horren ordez, beste paneleko funtzioa "
+"aldatzen da.</p>"
 
 #: libviews/callview.cpp:89
 msgctxt "CallView|"
@@ -989,6 +1040,12 @@ msgid ""
 "information panel. If there are two panels (Split mode), the function of the "
 "other panel is changed instead.</p>"
 msgstr ""
+"<b>Zuzenean deitutakoen zerrenda</b><p>Zerrenda horrek, unean hautatutakoak "
+"zuzenean deitu dituen funtzio guztiak erakusten ditu, dei kopuruarekin eta "
+"funtzioan unean hautatutako funtziotik deia jasotzean gastatutako "
+"kostuarekin batera.</p><p>Funtzio bat hautatzean, informazio panel horretako "
+"uneko hautua egiten du. Bi panel baldin badaude (modu zatitua), horren "
+"ordez, beste paneleko funtzioa aldatzen da.</p>"
 
 #: libviews/callview.cpp:118 libviews/callview.cpp:123
 #, qt-format
@@ -1007,21 +1064,21 @@ msgstr "Dei bakoitzeko %1"
 msgctxt "QObject|"
 msgid "(%n item(s) skipped)"
 msgid_plural "(%n item(s) skipped)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "(%n funtzio saihestuta)"
+msgstr[1] "(%n funtzio saihestuta)"
 
 #: libviews/coverageitem.cpp:58 libviews/coverageitem.cpp:195
 #, qt-format
 msgctxt "QObject|"
 msgid "(%n function(s) skipped)"
 msgid_plural "(%n function(s) skipped)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "(funtzio %n saihestuta)"
+msgstr[1] "(%n funtzio saihestuta)"
 
 #: libviews/coverageview.cpp:37
 msgctxt "CoverageView|"
 msgid "Incl."
-msgstr ""
+msgstr "Sartu"
 
 #: libviews/coverageview.cpp:40 libviews/coverageview.cpp:47
 msgctxt "CoverageView|"
@@ -1031,7 +1088,7 @@ msgstr "Distantzia"
 #: libviews/coverageview.cpp:41
 msgctxt "CoverageView|"
 msgid "Called"
-msgstr ""
+msgstr "Deitua(k)"
 
 #: libviews/coverageview.cpp:42
 msgctxt "CoverageView|"
@@ -1041,17 +1098,17 @@ msgstr "Dei egilea"
 #: libviews/coverageview.cpp:46
 msgctxt "CoverageView|"
 msgid "Self"
-msgstr ""
+msgstr "Propioa"
 
 #: libviews/coverageview.cpp:48
 msgctxt "CoverageView|"
 msgid "Calling"
-msgstr ""
+msgstr "Deia"
 
 #: libviews/coverageview.cpp:49
 msgctxt "CoverageView|"
 msgid "Callee"
-msgstr ""
+msgstr "Deitua"
 
 #: libviews/coverageview.cpp:84
 msgctxt "CoverageView|"
@@ -1072,6 +1129,23 @@ msgid ""
 "selected one of this information panel. If there are two panels (Split "
 "mode), the function of the other panel is changed instead.</p>"
 msgstr ""
+"<b>Deitzaile guztien zerrenda</b><p>Zerrenda horrek unean hautatutako "
+"funtzioa deitzen duten funtzio guztiak erakusten ditu, zuzenean izan edo "
+"pilan tartean hainbat funtzio egon; tartean dagoen funtzio kopuruari gehi "
+"bat <em>Distantzia</em> deitzen zaio (adib. A,B,C funtzioen kasuan, Atik "
+"Crako dei bat dago Ak B eta Bk C deitzen duenean, hots A => B => C. "
+"Distantzia hemen 2 da).</p><p>Erakutsitako kostu absolutua, hautatutako "
+"funtzioan, zerrendatutako funtzio bat aktibo dagoen bitartean gastatutako "
+"kostua da; kostu erlatiboa, hautatutako funtzioan, zerrendatutakoa aktibo "
+"dagoen bitartean, gastatutako kostu osoaren ehunekoa da. Kostuen grafikoak "
+"distantzia logaritmiko bakoitzerako ehuneko logaritmikoa kolore ezberdin "
+"batekin erakusten du.</p><p>Funtzio bereko dei ugari egon daitezkeenez, "
+"distantzia-zutabeak, batzuetan, gertatzen diren dei guztietarako distantzia "
+"barrutiak erakusten ditu;  ondoren parentesi artean, distantzia ertaina, "
+"hots dei gehienen kostua gertatzen den distantzia.</p><p>Funtzio bat "
+"hautatzean, informazio panel horretako uneko hautua egiten du. Bi panel "
+"baldin badaude (modu zatitua), horren ordez, beste paneleko funtzioa "
+"aldatzen da.</p>"
 
 #: libviews/coverageview.cpp:114
 msgctxt "CoverageView|"
@@ -1092,6 +1166,23 @@ msgid ""
 "selected one of this information panel. If there are two panels (Split "
 "mode), the function of the other panel is changed instead.</p>"
 msgstr ""
+"<b>Dei hartzaile guztien zerrenda</b><p>Zerrenda horrek, unean hautatutako "
+"funtzioak deitu dituen funtzio guztiak erakusten ditu, deia zuzenean izan "
+"edo, pilan, bien artean funtzio batzuk egon; tartean dagoen funtzio "
+"kopuruari, gehi bat <em>Distantzia</em> deitzen zaio (adib. A,B,C funtzioen "
+"kasuan, Atik Crako dei bat dago Ak B eta Bk C deitzen duenean, hots A => B "
+"=> C. Distantzia hemen 2 da).</p><p>Erakutsitako kostu absolutua, haututakoa "
+"aktibo dagoen bitartean, zerrendatutako funtzioan gastatutako kostua da; "
+"kostu erlatiboa, hautatutako funtzioa aktibo dagoen bitartean, "
+"zerrendatutako funtzioan gastatutako kostu osoaren ehunekoa da. Kostuen "
+"grafikoak distantzia logaritmiko bakoitzerako ehuneko logaritmikoa kolore "
+"ezberdin batekin erakusten du.<p></p>Funtzio bereko dei ugari egon "
+"daitezkeenez, distantzia-zutabeak, batzuetan, gertatzen diren dei "
+"guztietarako distantzia barrutiak erakusten ditu; ondoren parentesi artean, "
+"distantzia ertaina, hots dei gehienen kostua gertatzen den distantzia.</"
+"p><p>Funtzio bat hautatzean, informazio panel horretako uneko hautua egiten "
+"du. Bi panel baldin badaude (modu zatitua), horren ordez, beste paneleko "
+"funtzioa aldatzen da.</p>"
 
 #: libviews/coverageview.cpp:160
 #, qt-format
@@ -1112,12 +1203,12 @@ msgstr "Gertaera mota"
 #: libviews/eventtypeview.cpp:38
 msgctxt "EventTypeView|"
 msgid "Incl."
-msgstr ""
+msgstr "Sartu"
 
 #: libviews/eventtypeview.cpp:39
 msgctxt "EventTypeView|"
 msgid "Self"
-msgstr ""
+msgstr "Propioa"
 
 #: libviews/eventtypeview.cpp:40
 msgctxt "EventTypeView|"
@@ -1137,16 +1228,21 @@ msgid ""
 "type.</p><p>By choosing a cost type from the list, you change the cost type "
 "of costs shown all over KCachegrind to be the selected one.</p>"
 msgstr ""
+"<b>Kostu-moten zerrenda</b><p>Zerrenda horrek, erabilgarri dauden kostu-mota "
+"guztiak eta unean hautatutako funtzioaren norbera/inklusiboa kostuak kostu "
+"mota horretarako zer den erakusten du.</p><p>Zerrendako kostu-mota bat "
+"hautatuz, KCachegrind osoan zehar erakutsitako kostuen kostu-mota "
+"hautatutakora aldatzen duzu.</p>"
 
 #: libviews/eventtypeview.cpp:96
 msgctxt "EventTypeView|"
 msgid "Set as Secondary Event Type"
-msgstr ""
+msgstr "Ezarri bigarren mailako gertaera mota gisa"
 
 #: libviews/eventtypeview.cpp:98
 msgctxt "EventTypeView|"
 msgid "Hide Secondary Event Type"
-msgstr ""
+msgstr "Ezkutatu bigarren mailako gertaera mota"
 
 #: libviews/eventtypeview.cpp:107
 msgctxt "EventTypeView|"
@@ -1188,17 +1284,17 @@ msgstr "Gertaera mota berria %1"
 #: libviews/functionlistmodel.cpp:45
 msgctxt "FunctionListModel|"
 msgid "Incl."
-msgstr ""
+msgstr "Sartu"
 
 #: libviews/functionlistmodel.cpp:46
 msgctxt "FunctionListModel|"
 msgid "Self"
-msgstr ""
+msgstr "Propioa"
 
 #: libviews/functionlistmodel.cpp:47
 msgctxt "FunctionListModel|"
 msgid "Called"
-msgstr ""
+msgstr "Deitua(k)"
 
 #: libviews/functionlistmodel.cpp:48
 msgctxt "FunctionListModel|"
@@ -1214,7 +1310,7 @@ msgstr "Kokalekua"
 #, qt-format
 msgctxt "FunctionListModel|"
 msgid "(%1 function(s) skipped)"
-msgstr ""
+msgstr "(%1 funtzio saihestuta)"
 
 #: libviews/functionselection.cpp:87
 msgctxt "FunctionSelection|"
@@ -1234,7 +1330,7 @@ msgstr "Bilaketa itauna"
 #: libviews/functionselection.cpp:116
 msgctxt "FunctionSelection|"
 msgid "Self"
-msgstr ""
+msgstr "Propioa"
 
 #: libviews/functionselection.cpp:116
 msgctxt "FunctionSelection|"
@@ -1256,6 +1352,13 @@ msgid ""
 "the selected group (or all for 'Function' group type), ordered by the costs "
 "spent therein. Functions with costs less than 1% are hidden on default.</p>"
 msgstr ""
+"<b>Profil laua</b><p>Profil lauak talde bat eta funtzio-zerrenda bat ditu. "
+"Talde-zerrendak kostuak, hautatutako talde-motaren arabera, gastatzen "
+"dituzten talde guztiak ditu. Talde-zerrenda ezkutatu egiten da 'Funtzioa' "
+"talde-mota hautatzen denean.</p><p>Funtzio-zerrendak hautatutako taldearen "
+"funtzioak ditu (edo denak 'Funtzioa' talde-motarako), haietan gastatutako "
+"kostuen arabera ordenatuta. Kostua % 1 baino txikiagoa duten funtzioak, era "
+"lehenetsian, ezkutatuta daude.</p>"
 
 #: libviews/functionselection.cpp:287
 #, qt-format
@@ -1277,33 +1380,33 @@ msgstr "Taldekatzerik ez"
 #, qt-format
 msgctxt "QObject|"
 msgid "Active call to '%1'"
-msgstr ""
+msgstr "'%1'(e)ri dei aktiboa"
 
 #: libviews/instritem.cpp:116 libviews/sourceitem.cpp:96
 #, qt-format
 msgctxt "QObject|"
 msgid "Call to '%1'"
-msgstr ""
+msgstr "'%1'(e)ri deia"
 
 #: libviews/instritem.cpp:122 libviews/sourceitem.cpp:100
 #, qt-format
 msgctxt "QObject|"
 msgid "%n call(s) to '%2'"
 msgid_plural "%n call(s) to '%2'"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "dei %n '%2'(e)ri"
+msgstr[1] "%n dei '%2'(e)ri"
 
 #: libviews/instritem.cpp:155
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 of %2 times to 0x%3"
-msgstr ""
+msgstr "«0x%3»(e)ra %2 aldietatik %1. jauzia"
 
 #: libviews/instritem.cpp:160
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 times to 0x%2"
-msgstr ""
+msgstr "«0x%2»(e)ra %1 aldiz jauzi egin"
 
 #: libviews/instritem.cpp:201 libviews/sourceitem.cpp:184
 msgctxt "QObject|"
@@ -1333,12 +1436,12 @@ msgstr "Hamas."
 #: libviews/instrview.cpp:199
 msgctxt "InstrView|"
 msgid "Assembly Instructions"
-msgstr "Mihiztatze jarraibideak"
+msgstr "Mihiztatze aginduak"
 
 #: libviews/instrview.cpp:200
 msgctxt "InstrView|"
 msgid "Source Position"
-msgstr ""
+msgstr "Sorburuaren kokapena"
 
 #: libviews/instrview.cpp:236
 msgctxt "InstrView|"
@@ -1352,6 +1455,15 @@ msgid ""
 "utility from the 'binutils' package.</p><p>Select a line with call "
 "information to make the destination function of this call current.</p>"
 msgstr ""
+"<b>Idatzoharrak dituen Makina-kodea</b><p>Idatzoharrak dituen makina-kode "
+"zerrendak unean hautatutako funtzioaren mihiztatzaile-aginduak erakusten "
+"ditu, agindu bat exekutatzean gastatutako kostuarekin (propioa) batera. Hori "
+"dei-agindu bat bada, gertatzen ari den deiari buruzko xehetasunak dituzten "
+"lerroak sorburuan txertatzen dira: deiaren barruan gastatutako kostua, "
+"gertatzen ari den dei kopurua, eta deiaren jomuga.</p><p>Erakusten den "
+"makina-kodea 'binutils' paketeko 'objdump' baliagarritasunarekin sortzen da."
+"</p><p>Hautatu deiaren informazioa duen lerro bat, dei horren jomuga den "
+"funtzioa unekoa egiteko.</p>"
 
 #: libviews/instrview.cpp:265
 #, qt-format
@@ -1373,12 +1485,12 @@ msgstr "Kode hamas."
 #: libviews/instrview.cpp:573
 msgctxt "InstrView|"
 msgid "There is no instruction info in the profile data file."
-msgstr ""
+msgstr "Profil-datuen fitxategian ez dago agindu informaziorik."
 
 #: libviews/instrview.cpp:575
 msgctxt "InstrView|"
 msgid "Tip: For Callgrind, rerun with option"
-msgstr ""
+msgstr "Argibidea: «Callgrind»erako, berriz aukerarekin exekutatu"
 
 #: libviews/instrview.cpp:576
 msgctxt "InstrView|"
@@ -1388,7 +1500,7 @@ msgstr "      --dump-instr=yes"
 #: libviews/instrview.cpp:577
 msgctxt "InstrView|"
 msgid "To see (conditional) jumps, additionally specify"
-msgstr ""
+msgstr "Jauzi (baldintzatuak) ikusteko, zehaztu gainera"
 
 #: libviews/instrview.cpp:578
 msgctxt "InstrView|"
@@ -1399,6 +1511,7 @@ msgstr "      --collect-jumps=yes"
 msgctxt "InstrView|"
 msgid "For annotated machine code, the following object file is needed:"
 msgstr ""
+"Idatzoharrak dituen makina-koderako, ondoko objektu fitxategia behar da:"
 
 #: libviews/instrview.cpp:831
 msgctxt "InstrView|"
@@ -1408,55 +1521,56 @@ msgstr "Fitxategi hori ezin du aurkitu."
 #: libviews/instrview.cpp:834
 msgctxt "InstrView|"
 msgid "If cross-compiled, set SYSROOT variable."
-msgstr ""
+msgstr "Konpilazio gurutzatu bat egin bada, ezarri SYSROOT aldagaia."
 
 #: libviews/instrview.cpp:858
 msgctxt "InstrView|"
 msgid "There is an error trying to execute the command"
-msgstr ""
+msgstr "Komandoa exekutatzen saiatzean errore bat egon da"
 
 #: libviews/instrview.cpp:862 libviews/instrview.cpp:1158
 msgctxt "InstrView|"
 msgid "Check that you have installed 'objdump'."
-msgstr ""
+msgstr "Egiaztatu 'objdump' instalatu duzula."
 
 #: libviews/instrview.cpp:864 libviews/instrview.cpp:1160
 msgctxt "InstrView|"
 msgid "This utility can be found in the 'binutils' package."
-msgstr ""
+msgstr "Baliagarritasun hori 'binutils' paketean aurki daiteke."
 
 #: libviews/instrview.cpp:966
 msgctxt "InstrView|"
 msgid "(No Instruction)"
-msgstr "(Jarraibiderik ez)"
+msgstr "(Agindurik ez)"
 
 #: libviews/instrview.cpp:1134
 #, qt-format
 msgctxt "InstrView|"
 msgid "There are %n cost line(s) without machine code."
 msgid_plural "There are %n cost line(s) without machine code."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Makina-koderik gabeko kostu lerro %n dago."
+msgstr[1] "Makina-koderik gabeko %n kostu lerro daude."
 
 #: libviews/instrview.cpp:1136
 msgctxt "InstrView|"
 msgid "This happens because the code of"
-msgstr ""
+msgstr "Hori gertatzen da ondokoaren kodea,"
 
 #: libviews/instrview.cpp:1139
 msgctxt "InstrView|"
 msgid "does not seem to match the profile data file."
-msgstr ""
+msgstr ", ez dirudielako profil datu fitxategiarekin bat datorrenik."
 
 #: libviews/instrview.cpp:1142
 msgctxt "InstrView|"
 msgid "Are you using an old profile data file or is the above mentioned"
 msgstr ""
+"profil datuen fitxategi zahar bat erabiltzen ari zara edo goian aipatutako"
 
 #: libviews/instrview.cpp:1144
 msgctxt "InstrView|"
 msgid "ELF object from an updated installation/another machine?"
-msgstr ""
+msgstr "ELF objektua eguneratutako instalazio/beste makina batekoa da?"
 
 #: libviews/instrview.cpp:1152
 msgctxt "InstrView|"
@@ -1526,6 +1640,21 @@ msgid ""
 "current selected function in the trace part is shown. This is split up into "
 "smaller rectangles to show the costs of its callees.</li></ul></p>"
 msgstr ""
+"<b>Atalen ikuspegi orokorra</b><p>Aztarna bat, aztarna atal ezberdinez "
+"osatuta egon daiteke, profil-exekuzio baten hainbat profil datu-fitxategi "
+"daudenean. «Aztarna atal ikuspegi orokor» atrakagarriak horiek erakusten "
+"ditu, exekuzio garaian horizontalki ordenatuta; laukizuzenen neurriak "
+"ataletan gastatutako kostu osoekiko proportzionalak dira. Atal bat edo "
+"batzuk hauta ditzakezu, erakutsitako kostu guztiak atal horietara bakarrik "
+"mugatzeko.</p><p>Atalek zatiketa gehiago dituzte: Partizio eta dei-hartzaile "
+"zatitze moduak: <ul><li>Partizioa: Aztarna atal baterako taldeetan ikusten "
+"duzu partizioa, hautatutako talde-motaren arabera. Adib. ELF objektu taldeak "
+"hautatzen badira, erabilitako ELF objektu bakoitzerako (liburutegi partekatu "
+"edo exekutagarri) laukizuzen koloredunak ikusten dituzu, haietan gastatutako "
+"kostuaren araberako neurriekin.</li><li>Dei-hartzailea: Aztarna atalean "
+"unean hautatutako funtzioaren kostu inklusiboa erakusten duen laukizuzen bat "
+"erakusten da. Hori, haren dei-hartzaileen kostuak erakusteko, zati "
+"txikiagoetan zatituta dago.</li></ul></p>"
 
 #: libviews/partselection.cpp:231
 #, qt-format
@@ -1579,7 +1708,7 @@ msgstr "Irudikapena"
 #: libviews/partselection.cpp:371
 msgctxt "PartSelection|"
 msgid "Partitioning Mode"
-msgstr ""
+msgstr "Partizioak egiteko modua"
 
 #: libviews/partselection.cpp:373
 msgctxt "PartSelection|"
@@ -1649,17 +1778,17 @@ msgstr "Profil atala"
 #: libviews/partview.cpp:38
 msgctxt "PartView|"
 msgid "Incl."
-msgstr ""
+msgstr "Sartu"
 
 #: libviews/partview.cpp:39
 msgctxt "PartView|"
 msgid "Self"
-msgstr ""
+msgstr "Propioa"
 
 #: libviews/partview.cpp:40
 msgctxt "PartView|"
 msgid "Called"
-msgstr ""
+msgstr "Deitua(k)"
 
 #: libviews/partview.cpp:41
 msgctxt "PartView|"
@@ -1683,12 +1812,27 @@ msgid ""
 "Part Overview Dockable. This one also supports multiple selection.</"
 "p><p>Note that the list is hidden if only one trace part is loaded.</p>"
 msgstr ""
+"<b>Aztarna Atal zerrenda</b><p>Zerrenda horrek, zamatutako aztarnaren "
+"aztarna-atal guztiak erakusten ditu. Atal bakoitzerako, atalean gastatutako, "
+"unean hautatutako funtzioaren kostu propioa/inklusiboa erakusten da; ehuneko "
+"kostuak beti dira <em>atalaren</em> kostu osoarekiko erlatibo (ez «Aztarna "
+"Atal ikuspegi orokorra»n bezala aztarna osoarekiko). Aztarna atal barnean "
+"funtziotik eta funtziora eginiko deiak ere erakusten dira.</p><p>Zerrendako "
+"aztarna atal bat edo gehiago hautatuz, KCachegrind osoan zehar erakutsitako "
+"kostuak, hautatutako atale(t)an gastatutakoa bakarrik izango dira. Zerrenda "
+"hautapenik erakusten ez bada, izatez, aztarna atal guztiak inplizituki "
+"hautatuta daude.</p><p>Hori, hautapen anizkoitzeko zerrenda bat da. "
+"Barrutiak hauta ditzakezu sagua arrastatuz edo Maius/Ktrl aldarazleak "
+"erabiliz. Aztarna atalak hautatu/desautatu daitezke ere «Aztarna Atal "
+"ikuspegi orokorra» erabiliz. Horrek ere onartzen ditu hautapen anizkoitzak.</"
+"p><p>Kontuan izan atal bakar bat hautatuta badago, zerrenda ezkutuan dagoela."
+"</p>"
 
 #: libviews/sourceitem.cpp:141
 #, qt-format
 msgctxt "QObject|"
 msgid "Jump %1 of %2 times to %3"
-msgstr ""
+msgstr "%3(e)ra %2 aldietatik %1. jauzia"
 
 #: libviews/sourceitem.cpp:146
 #, qt-format
@@ -1727,6 +1871,13 @@ msgid ""
 "call destination.</p><p>Select a inserted call information line to make the "
 "destination function current.</p>"
 msgstr ""
+"<b>Idatzoharrak dituen Sorburua</b><p>Idatzoharrak dituen sorburu-zerrendak "
+"unean hautatutako funtzioaren sorburu-lerroak erakusten ditu, sorburu-lerro "
+"hori exekutatzeko kostu propioarekin batera. Sorburu-lerro batean deirik "
+"balego, dei-gertaeraren xehetasunak dituzten lerroak sorburuan sartzen dira: "
+"dei barruan gastatutako kostua, gertatutako dei kopurua, eta deiaren jomuga."
+"</p><p>Hautatu sartutako dei-informazio lerro bat jomugako funtzioa unekoa "
+"egiteko.</p>"
 
 #: libviews/sourceview.cpp:110
 #, qt-format
@@ -1743,17 +1894,17 @@ msgstr "Joan %1 lerrora"
 #: libviews/sourceview.cpp:627
 msgctxt "SourceView|"
 msgid "There is no cost of current selected type associated"
-msgstr ""
+msgstr "Ez dago unean hautatutako motako kostuekin elkartutako"
 
 #: libviews/sourceview.cpp:629
 msgctxt "SourceView|"
 msgid "with any source line of this function in file"
-msgstr ""
+msgstr "funtzio honetako sorburu lerrorik fitxategian"
 
 #: libviews/sourceview.cpp:633
 msgctxt "SourceView|"
 msgid "Thus, no annotated source can be shown."
-msgstr ""
+msgstr "Beraz, ezin da idatzoharrak dituen sorbururik erakutsi."
 
 #: libviews/sourceview.cpp:658
 #, qt-format
@@ -1765,17 +1916,17 @@ msgstr "--- '%1'(e)tik ---"
 #, qt-format
 msgctxt "SourceView|"
 msgid "--- Inlined from '%1' ---"
-msgstr ""
+msgstr "--- '%1'(e)tik lerroan barneratua ---"
 
 #: libviews/sourceview.cpp:664
 msgctxt "SourceView|"
 msgid "--- Inlined from unknown source ---"
-msgstr ""
+msgstr "--- sorburu ezezagunetik lerroan barneratua ---"
 
 #: libviews/sourceview.cpp:669
 msgctxt "SourceView|"
 msgid "There is no source available for the following function:"
-msgstr ""
+msgstr "Ez dago ondoko funtzioetarako sorbururik erabilgarri:"
 
 #: libviews/sourceview.cpp:674
 msgctxt "SourceView|"
@@ -1810,7 +1961,7 @@ msgstr "Zerrenda konfiguratzeko elkarrizketa-koadroan aurki daiteke."
 #: libviews/stackselection.cpp:36
 msgctxt "StackSelection|"
 msgid "Stack Selection"
-msgstr ""
+msgstr "Pila hautatzea"
 
 #: libviews/stackselection.cpp:44
 msgctxt "StackSelection|"
@@ -1910,7 +2061,7 @@ msgstr "Behera ezkerrera"
 #: libviews/tabview.cpp:135
 msgctxt "TabBar|"
 msgid "Show Hidden On"
-msgstr ""
+msgstr "Erakutsi ezkutukoa hemen"
 
 #: libviews/tabview.cpp:308 libviews/tabview.cpp:310 libviews/tabview.cpp:727
 msgctxt "TabView|"
@@ -1992,6 +2143,24 @@ msgid ""
 "ul>For more information, see the <em>What's This?</em> help of the "
 "corresponding tab widget.</p>"
 msgstr ""
+"<b>Informazio fitxak</b><p>Trepeta horrek unean hautatutako funtzioaren "
+"informazioa fitxa ezberdinetan erakusten du: <ul><li>«Kostuak» fitxak, "
+"gertaera-mota erabilgarrien zerrenda bat erakusten du, eta mota horiekin "
+"lotutako kostu inklusiboak eta propioak.</li><li>«Zatiak» fitxak aztarna-"
+"zati zerrenda bat erakusten du, aztarnak zati bat baino gehiago badu "
+"(bestela, fitxa hori ezkutatuan egongo da). Hautatutako funtzioaren kostua, "
+"zati bakoitzean gastatutakoa, gertatutako deiekin batera erakusten da.</"
+"li><li>«Dei-zerrendak» fitxak funtzioaren zuzeneko deitzaileak eta deituak "
+"zehaztasun handiagoarekin erakusten ditu.</li><li>«Estaldura» fitxak «Dei "
+"zerrendak» fitxak erakusten duen berdina erakusten du, baina zeharkako "
+"deitzaileak eta deituak ere erakusten ditu, ez zuzenekoak bakarrik.</"
+"li><li>«Deien grafikoa» fitxak, funtzio horrek egindako deien irudikapen "
+"grafiko bat erakusten du.</li><li>«Sorburu-kodea» fitxak idatzoharrak dituen "
+"sorburua aurkezten du, arazteko informazioa eta sorburu fitxategia "
+"erabilgarri badaude.</li><li>«Makina-kodea» fitxak mihiztadura kodea "
+"idatzoharrekin aurkezten du, agindu mailako profil-informazioa erabilgarri "
+"badago.</li></ul>Informazio gehiago lortzeko, begiratu dagokion fitxako "
+"trepetaren <em>Zer da hori?</em> Laguntza.</p>"
 
 #: libviews/tabview.cpp:728
 msgctxt "TabView|"
